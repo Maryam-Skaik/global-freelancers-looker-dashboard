@@ -1,0 +1,1001 @@
+gender,age,country,language,primary_skill,years_of_experience,hourly_rate (USD),rating,is_active,client_satisfaction,age_group,experience_level,hourly_rate_log
+Female,52.0,Italy,Italian,Blockchain Development,11.0,100.0,2.6,0,79.0,51-60,Senior,4.61512051684126
+Female,52.0,Australia,English,Mobile Apps,34.0,100.0,3.3,1,84.0,51-60,Expert,4.61512051684126
+Male,53.0,Germany,German,Graphic Design,31.0,50.0,0.0,0,71.0,51-60,Expert,3.9318256327243257
+Female,38.0,Australia,English,Web Development,4.0,40.0,1.5,0,90.0,31-40,Mid,3.713572066704308
+Female,53.0,Germany,German,Web Development,27.0,30.0,4.8,0,83.0,51-60,Expert,3.4339872044851463
+Female,59.0,Netherlands,Dutch,Ai,14.0,30.0,2.4,0,79.0,51-60,Senior,3.4339872044851463
+Male,52.0,Indonesia,Indonesian,Data Analysis,10.0,75.0,3.1,0,94.0,51-60,Mid,4.330733340286331
+Male,43.0,Italy,Italian,Blockchain Development,14.0,40.0,4.6,0,94.0,41-50,Senior,3.713572066704308
+Male,26.0,United States,English,Blockchain Development,4.0,40.0,4.0,1,76.0,20-30,Mid,3.713572066704308
+Male,52.0,Turkey,Turkish,Ai,22.0,50.0,2.6,1,79.0,51-60,Expert,3.9318256327243257
+Male,40.0,United Kingdom,English,Data Analysis,17.0,40.0,3.6,1,77.0,31-40,Senior,3.713572066704308
+Female,55.0,Argentina,Spanish,Ui/Ux Design,15.0,40.0,2.6,1,86.0,51-60,Senior,3.713572066704308
+Female,57.0,United Kingdom,English,Cybersecurity,18.0,40.0,2.0,0,86.0,51-60,Senior,3.713572066704308
+Male,38.0,Argentina,Spanish,Graphic Design,20.0,75.0,2.9,1,93.0,31-40,Senior,4.330733340286331
+Male,50.0,Germany,German,Data Analysis,22.0,75.0,3.7,1,70.0,41-50,Expert,4.330733340286331
+Male,42.0,Japan,Japanese,Data Analysis,0.0,30.0,1.2,0,69.0,41-50,Junior,3.4339872044851463
+Female,39.0,Australia,English,Devops,13.0,30.0,2.5,0,60.0,31-40,Senior,3.4339872044851463
+Male,56.0,India,Hindi,Blockchain Development,9.0,40.0,2.6,0,87.0,51-60,Mid,3.713572066704308
+Male,56.0,United States,English,Ui/Ux Design,31.0,50.0,1.1,0,75.0,51-60,Expert,3.9318256327243257
+Male,57.0,Italy,Italian,Web Development,3.0,100.0,1.8,1,68.0,51-60,Junior,4.61512051684126
+Male,41.0,Indonesia,Indonesian,Ai,9.0,50.0,1.8,0,65.0,41-50,Mid,3.9318256327243257
+Male,51.0,Japan,Japanese,Devops,9.0,40.0,2.4,0,69.0,51-60,Mid,3.713572066704308
+Male,51.0,Brazil,Portuguese,Cybersecurity,21.0,30.0,4.7,0,79.0,51-60,Expert,3.4339872044851463
+Female,51.0,South Korea,Korean,Machine Learning,15.0,50.0,1.3,1,100.0,51-60,Senior,3.9318256327243257
+Female,54.0,Indonesia,Indonesian,Machine Learning,13.0,75.0,2.9,0,92.0,51-60,Senior,4.330733340286331
+Female,22.0,South Korea,Korean,Devops,0.0,30.0,1.2,1,70.0,20-30,Junior,3.4339872044851463
+Female,34.0,Japan,Japanese,Blockchain Development,8.0,20.0,0.0,1,89.0,31-40,Mid,3.044522437723423
+Female,36.0,Russia,Russian,Graphic Design,11.0,40.0,1.8,1,86.0,31-40,Senior,3.713572066704308
+Female,47.0,Canada,English,Ai,22.0,30.0,1.3,0,62.0,41-50,Expert,3.4339872044851463
+Female,41.0,Netherlands,Dutch,Data Analysis,14.0,75.0,1.2,0,79.0,41-50,Senior,4.330733340286331
+Male,22.0,Netherlands,Dutch,Devops,4.0,40.0,1.0,1,79.0,20-30,Mid,3.713572066704308
+Male,38.0,France,French,Machine Learning,19.0,100.0,4.2,0,68.0,31-40,Senior,4.61512051684126
+Male,46.0,Egypt,Arabic,Ai,9.0,20.0,1.4,1,76.0,41-50,Mid,3.044522437723423
+Male,41.0,South Korea,Korean,Ai,9.0,40.0,2.4,1,82.0,41-50,Mid,3.713572066704308
+Female,54.0,United States,English,Web Development,32.0,75.0,1.0,1,81.0,51-60,Expert,4.330733340286331
+Female,52.0,South Korea,Korean,Web Development,28.0,20.0,2.6,0,79.0,51-60,Expert,3.044522437723423
+Female,42.0,Japan,Japanese,Mobile Apps,6.0,40.0,2.6,0,63.0,41-50,Mid,3.713572066704308
+Female,29.0,Netherlands,Dutch,Graphic Design,10.0,40.0,2.2,0,67.0,20-30,Mid,3.713572066704308
+Female,42.0,South Africa,Afrikaans,Mobile Apps,23.0,50.0,3.2,1,79.0,41-50,Expert,3.9318256327243257
+Male,60.0,Japan,Japanese,Web Development,13.0,20.0,3.6,0,80.0,51-60,Senior,3.044522437723423
+Female,59.0,United Kingdom,English,Ai,3.0,50.0,0.0,0,79.0,51-60,Junior,3.9318256327243257
+Female,21.0,Canada,English,Web Development,0.0,30.0,2.7,1,84.0,20-30,Junior,3.4339872044851463
+Female,35.0,Germany,German,Devops,10.0,50.0,0.0,0,79.0,31-40,Mid,3.9318256327243257
+Male,41.0,United Kingdom,English,Data Analysis,9.0,20.0,2.8,1,63.0,41-50,Mid,3.044522437723423
+Female,51.0,Netherlands,Dutch,Machine Learning,23.0,20.0,2.5,0,80.0,51-60,Expert,3.044522437723423
+Male,41.0,South Africa,Afrikaans,Web Development,9.0,75.0,4.9,1,74.0,41-50,Mid,4.330733340286331
+Female,47.0,Egypt,Arabic,Devops,15.0,30.0,4.5,1,85.0,41-50,Senior,3.4339872044851463
+Male,25.0,China,Mandarin,Graphic Design,4.0,50.0,2.7,0,77.0,20-30,Mid,3.9318256327243257
+Female,25.0,Mexico,Spanish,Mobile Apps,7.0,20.0,1.9,0,79.0,20-30,Mid,3.044522437723423
+Male,29.0,Netherlands,Dutch,Ui/Ux Design,1.0,20.0,1.4,1,63.0,20-30,Junior,3.044522437723423
+Female,23.0,Argentina,Spanish,Cybersecurity,0.0,75.0,1.9,1,79.0,20-30,Junior,4.330733340286331
+Male,31.0,France,French,Data Analysis,8.0,50.0,3.4,0,79.0,31-40,Mid,3.9318256327243257
+Male,51.0,Germany,German,Machine Learning,33.0,75.0,3.3,0,68.0,51-60,Expert,4.330733340286331
+Male,41.0,Spain,Spanish,Ui/Ux Design,1.0,30.0,0.0,0,68.0,41-50,Junior,3.4339872044851463
+Female,29.0,Turkey,Turkish,Cybersecurity,11.0,100.0,2.3,1,72.0,20-30,Senior,4.61512051684126
+Male,50.0,United Kingdom,English,Ai,15.0,40.0,2.0,1,65.0,41-50,Senior,3.713572066704308
+Female,26.0,United Kingdom,English,Devops,8.0,50.0,1.3,0,76.0,20-30,Mid,3.9318256327243257
+Male,38.0,Canada,English,Ai,17.0,40.0,4.0,1,90.0,31-40,Senior,3.713572066704308
+Female,23.0,India,Hindi,Mobile Apps,9.0,75.0,3.6,1,65.0,20-30,Mid,4.330733340286331
+Female,51.0,South Africa,Afrikaans,Devops,28.0,40.0,3.9,0,63.0,51-60,Expert,3.713572066704308
+Female,51.0,Indonesia,Indonesian,Ai,33.0,75.0,0.0,1,79.0,51-60,Expert,4.330733340286331
+Male,47.0,Germany,German,Ai,18.0,75.0,0.0,0,79.0,41-50,Senior,4.330733340286331
+Female,34.0,Russia,Russian,Ui/Ux Design,16.0,20.0,2.3,1,93.0,31-40,Senior,3.044522437723423
+Female,58.0,Indonesia,Indonesian,Data Analysis,35.0,50.0,4.7,0,70.0,51-60,Expert,3.9318256327243257
+Female,50.0,Russia,Russian,Ai,14.0,40.0,3.5,1,83.0,41-50,Senior,3.713572066704308
+Female,34.0,Spain,Spanish,Web Development,12.0,40.0,2.4,1,64.0,31-40,Senior,3.713572066704308
+Female,45.0,Brazil,Portuguese,Ai,11.0,75.0,4.0,0,100.0,41-50,Senior,4.330733340286331
+Female,55.0,Brazil,Portuguese,Web Development,0.0,40.0,0.0,1,79.0,51-60,Junior,3.713572066704308
+Male,41.0,Argentina,Spanish,Ui/Ux Design,6.0,100.0,1.5,0,79.0,41-50,Mid,4.61512051684126
+Female,60.0,China,Mandarin,Ui/Ux Design,38.0,20.0,2.0,0,71.0,51-60,Expert,3.044522437723423
+Female,33.0,South Africa,Afrikaans,Mobile Apps,11.0,40.0,2.6,1,84.0,31-40,Senior,3.713572066704308
+Male,60.0,Italy,Italian,Devops,13.0,50.0,1.0,0,79.0,51-60,Senior,3.9318256327243257
+Male,40.0,United States,English,Web Development,9.0,100.0,4.5,1,69.0,31-40,Mid,4.61512051684126
+Male,59.0,Australia,English,Blockchain Development,4.0,40.0,1.9,0,88.0,51-60,Mid,3.713572066704308
+Male,36.0,Italy,Italian,Machine Learning,14.0,100.0,3.7,0,79.0,31-40,Senior,4.61512051684126
+Male,32.0,India,Hindi,Data Analysis,9.0,30.0,1.9,1,96.0,31-40,Mid,3.4339872044851463
+Male,59.0,Australia,English,Ai,9.0,75.0,4.0,1,96.0,51-60,Mid,4.330733340286331
+Female,54.0,Spain,Spanish,Devops,32.0,40.0,1.8,0,79.0,51-60,Expert,3.713572066704308
+Female,37.0,Canada,English,Graphic Design,9.0,40.0,0.0,1,89.0,31-40,Mid,3.713572066704308
+Male,54.0,India,Hindi,Machine Learning,21.0,100.0,4.6,0,79.0,51-60,Expert,4.61512051684126
+Female,33.0,Argentina,Spanish,Ui/Ux Design,12.0,100.0,3.6,0,63.0,31-40,Senior,4.61512051684126
+Female,25.0,Egypt,Arabic,Web Development,7.0,40.0,4.4,0,81.0,20-30,Mid,3.713572066704308
+Male,41.0,China,Mandarin,Devops,3.0,40.0,4.6,0,74.0,41-50,Junior,3.713572066704308
+Male,35.0,South Korea,Korean,Web Development,5.0,75.0,3.2,0,72.0,31-40,Mid,4.330733340286331
+Male,59.0,South Korea,Korean,Ai,30.0,40.0,0.0,1,79.0,51-60,Expert,3.713572066704308
+Female,21.0,China,Mandarin,Devops,2.0,100.0,2.6,1,85.0,20-30,Junior,4.61512051684126
+Male,25.0,United States,English,Mobile Apps,2.0,75.0,3.7,0,79.0,20-30,Junior,4.330733340286331
+Female,38.0,Mexico,Spanish,Web Development,19.0,75.0,2.3,0,61.0,31-40,Senior,4.330733340286331
+Male,57.0,Russia,Russian,Ai,16.0,100.0,3.1,0,79.0,51-60,Senior,4.61512051684126
+Male,32.0,India,Hindi,Mobile Apps,10.0,20.0,2.4,0,86.0,31-40,Mid,3.044522437723423
+Male,21.0,Italy,Italian,Devops,2.0,100.0,1.6,1,97.0,20-30,Junior,4.61512051684126
+Female,57.0,Canada,English,Cybersecurity,18.0,50.0,2.4,1,63.0,51-60,Senior,3.9318256327243257
+Male,53.0,China,Mandarin,Ui/Ux Design,21.0,100.0,2.6,1,97.0,51-60,Expert,4.61512051684126
+Male,35.0,Russia,Russian,Blockchain Development,3.0,30.0,3.8,1,81.0,31-40,Junior,3.4339872044851463
+Female,54.0,China,Mandarin,Machine Learning,17.0,20.0,1.7,0,69.0,51-60,Senior,3.044522437723423
+Female,36.0,Italy,Italian,Ui/Ux Design,0.0,20.0,1.3,1,64.0,31-40,Junior,3.044522437723423
+Female,49.0,Spain,Spanish,Cybersecurity,25.0,50.0,5.0,0,77.0,41-50,Expert,3.9318256327243257
+Male,37.0,United States,English,Blockchain Development,17.0,20.0,3.3,0,96.0,31-40,Senior,3.044522437723423
+Male,41.0,United States,English,Ui/Ux Design,5.0,20.0,1.1,0,74.0,41-50,Mid,3.044522437723423
+Male,32.0,Egypt,Arabic,Ui/Ux Design,10.0,50.0,1.2,0,89.0,31-40,Mid,3.9318256327243257
+Male,35.0,India,Hindi,Mobile Apps,0.0,40.0,2.0,1,64.0,31-40,Junior,3.713572066704308
+Female,51.0,Russia,Russian,Graphic Design,2.0,30.0,4.5,0,64.0,51-60,Junior,3.4339872044851463
+Female,50.0,Russia,Russian,Devops,30.0,100.0,3.0,1,73.0,41-50,Expert,4.61512051684126
+Female,21.0,Turkey,Turkish,Blockchain Development,2.0,50.0,4.9,1,68.0,20-30,Junior,3.9318256327243257
+Male,25.0,United States,English,Graphic Design,3.0,30.0,2.6,0,88.0,20-30,Junior,3.4339872044851463
+Female,57.0,France,French,Devops,21.0,40.0,2.5,0,77.0,51-60,Expert,3.713572066704308
+Male,58.0,Russia,Russian,Blockchain Development,3.0,40.0,0.0,1,79.0,51-60,Junior,3.713572066704308
+Female,45.0,Indonesia,Indonesian,Mobile Apps,19.0,40.0,2.6,1,72.0,41-50,Senior,3.713572066704308
+Female,23.0,United States,English,Web Development,0.0,20.0,4.7,1,60.0,20-30,Junior,3.044522437723423
+Female,46.0,United States,English,Ai,9.0,30.0,3.5,0,72.0,41-50,Mid,3.4339872044851463
+Male,27.0,Argentina,Spanish,Ui/Ux Design,5.0,30.0,2.6,0,92.0,20-30,Mid,3.4339872044851463
+Female,32.0,United States,English,Machine Learning,6.0,50.0,3.4,1,79.0,31-40,Mid,3.9318256327243257
+Female,48.0,Argentina,Spanish,Machine Learning,6.0,75.0,2.5,0,92.0,41-50,Mid,4.330733340286331
+Male,30.0,Turkey,Turkish,Mobile Apps,3.0,30.0,1.1,1,79.0,20-30,Junior,3.4339872044851463
+Male,59.0,Turkey,Turkish,Ai,13.0,20.0,4.8,0,79.0,51-60,Senior,3.044522437723423
+Female,32.0,Mexico,Spanish,Ai,5.0,30.0,2.6,0,86.0,31-40,Mid,3.4339872044851463
+Female,57.0,Egypt,Arabic,Ui/Ux Design,4.0,40.0,3.4,1,68.0,51-60,Mid,3.713572066704308
+Male,27.0,Australia,English,Machine Learning,7.0,20.0,3.2,1,62.0,20-30,Mid,3.044522437723423
+Female,33.0,Indonesia,Indonesian,Machine Learning,13.0,20.0,3.2,0,79.0,31-40,Senior,3.044522437723423
+Male,29.0,South Korea,Korean,Data Analysis,4.0,30.0,0.0,1,82.0,20-30,Mid,3.4339872044851463
+Female,36.0,Indonesia,Indonesian,Ui/Ux Design,13.0,75.0,2.6,1,79.0,31-40,Senior,4.330733340286331
+Female,47.0,Italy,Italian,Devops,5.0,40.0,3.7,0,93.0,41-50,Mid,3.713572066704308
+Male,48.0,Canada,English,Machine Learning,15.0,50.0,1.0,1,64.0,41-50,Senior,3.9318256327243257
+Female,27.0,China,Mandarin,Ui/Ux Design,8.0,50.0,0.0,0,79.0,20-30,Mid,3.9318256327243257
+Male,34.0,Australia,English,Web Development,10.0,40.0,1.7,0,96.0,31-40,Mid,3.713572066704308
+Male,49.0,South Korea,Korean,Data Analysis,19.0,40.0,5.0,1,83.0,41-50,Senior,3.713572066704308
+Male,30.0,Brazil,Portuguese,Mobile Apps,10.0,100.0,1.7,1,64.0,20-30,Mid,4.61512051684126
+Male,31.0,Egypt,Arabic,Graphic Design,8.0,40.0,4.4,0,70.0,31-40,Mid,3.713572066704308
+Male,58.0,China,Mandarin,Machine Learning,9.0,20.0,0.0,0,65.0,51-60,Mid,3.044522437723423
+Male,47.0,France,French,Machine Learning,13.0,40.0,3.4,0,67.0,41-50,Senior,3.713572066704308
+Female,45.0,United Kingdom,English,Cybersecurity,14.0,100.0,1.1,0,93.0,41-50,Senior,4.61512051684126
+Female,57.0,France,French,Machine Learning,0.0,50.0,1.6,0,60.0,51-60,Junior,3.9318256327243257
+Male,50.0,India,Hindi,Web Development,22.0,100.0,4.1,0,62.0,41-50,Expert,4.61512051684126
+Female,41.0,Brazil,Portuguese,Machine Learning,4.0,40.0,2.5,0,70.0,41-50,Mid,3.713572066704308
+Female,45.0,Indonesia,Indonesian,Blockchain Development,22.0,100.0,4.0,1,75.0,41-50,Expert,4.61512051684126
+Male,60.0,South Africa,Afrikaans,Cybersecurity,39.0,75.0,1.4,0,70.0,51-60,Expert,4.330733340286331
+Female,43.0,United Kingdom,English,Cybersecurity,5.0,50.0,2.6,1,84.0,41-50,Mid,3.9318256327243257
+Female,39.0,France,French,Cybersecurity,5.0,40.0,1.2,0,83.0,31-40,Mid,3.713572066704308
+Male,26.0,Mexico,Spanish,Ui/Ux Design,5.0,50.0,0.0,0,79.0,20-30,Mid,3.9318256327243257
+Male,31.0,Germany,German,Cybersecurity,11.0,50.0,3.1,0,88.0,31-40,Senior,3.9318256327243257
+Male,52.0,France,French,Ui/Ux Design,15.0,50.0,0.0,1,81.0,51-60,Senior,3.9318256327243257
+Female,34.0,India,Hindi,Data Analysis,5.0,20.0,2.2,1,80.0,31-40,Mid,3.044522437723423
+Male,45.0,United Kingdom,English,Web Development,7.0,75.0,3.0,1,67.0,41-50,Mid,4.330733340286331
+Male,46.0,United Kingdom,English,Cybersecurity,9.0,20.0,0.0,0,82.0,41-50,Mid,3.044522437723423
+Male,56.0,France,French,Ui/Ux Design,21.0,100.0,0.0,1,78.0,51-60,Expert,4.61512051684126
+Female,59.0,Germany,German,Ai,7.0,40.0,1.4,0,81.0,51-60,Mid,3.713572066704308
+Female,54.0,Egypt,Arabic,Blockchain Development,4.0,40.0,1.4,1,74.0,51-60,Mid,3.713572066704308
+Male,36.0,Germany,German,Ui/Ux Design,7.0,30.0,0.0,0,88.0,31-40,Mid,3.4339872044851463
+Male,25.0,Mexico,Spanish,Data Analysis,0.0,40.0,0.0,0,90.0,20-30,Junior,3.713572066704308
+Female,37.0,Russia,Russian,Data Analysis,15.0,40.0,2.9,0,79.0,31-40,Senior,3.713572066704308
+Male,41.0,Turkey,Turkish,Data Analysis,10.0,40.0,0.0,0,79.0,41-50,Mid,3.713572066704308
+Male,29.0,Spain,Spanish,Data Analysis,11.0,20.0,2.7,0,93.0,20-30,Senior,3.044522437723423
+Female,55.0,Argentina,Spanish,Mobile Apps,12.0,100.0,1.8,1,79.0,51-60,Senior,4.61512051684126
+Female,38.0,Japan,Japanese,Devops,20.0,75.0,1.1,0,71.0,31-40,Senior,4.330733340286331
+Male,47.0,South Korea,Korean,Devops,29.0,40.0,4.3,1,95.0,41-50,Expert,3.713572066704308
+Male,60.0,Brazil,Portuguese,Web Development,15.0,100.0,1.5,0,80.0,51-60,Senior,4.61512051684126
+Female,43.0,Italy,Italian,Data Analysis,9.0,20.0,2.2,0,79.0,41-50,Mid,3.044522437723423
+Male,56.0,South Africa,Afrikaans,Data Analysis,9.0,100.0,3.2,0,62.0,51-60,Mid,4.61512051684126
+Male,42.0,Russia,Russian,Devops,2.0,50.0,1.9,0,95.0,41-50,Junior,3.9318256327243257
+Female,20.0,Spain,Spanish,Graphic Design,0.0,40.0,2.5,0,79.0,20-30,Junior,3.713572066704308
+Female,47.0,Indonesia,Indonesian,Ui/Ux Design,12.0,40.0,4.5,0,62.0,41-50,Senior,3.713572066704308
+Male,41.0,Argentina,Spanish,Data Analysis,12.0,30.0,4.1,0,68.0,41-50,Senior,3.4339872044851463
+Male,56.0,Indonesia,Indonesian,Devops,15.0,75.0,0.0,0,79.0,51-60,Senior,4.330733340286331
+Male,59.0,United Kingdom,English,Devops,29.0,75.0,2.6,0,80.0,51-60,Expert,4.330733340286331
+Male,56.0,Japan,Japanese,Cybersecurity,15.0,40.0,3.7,0,92.0,51-60,Senior,3.713572066704308
+Female,31.0,South Africa,Afrikaans,Web Development,9.0,75.0,1.3,1,65.0,31-40,Mid,4.330733340286331
+Male,60.0,South Korea,Korean,Mobile Apps,33.0,40.0,3.6,1,87.0,51-60,Expert,3.713572066704308
+Female,31.0,Canada,English,Web Development,10.0,75.0,0.0,0,70.0,31-40,Mid,4.330733340286331
+Male,60.0,Argentina,Spanish,Cybersecurity,20.0,40.0,1.4,0,87.0,51-60,Senior,3.713572066704308
+Male,46.0,France,French,Devops,23.0,20.0,2.9,0,72.0,41-50,Expert,3.044522437723423
+Female,41.0,Netherlands,Dutch,Blockchain Development,9.0,40.0,2.8,0,80.0,41-50,Mid,3.713572066704308
+Male,34.0,Japan,Japanese,Ui/Ux Design,0.0,20.0,1.7,0,66.0,31-40,Junior,3.044522437723423
+Female,42.0,Netherlands,Dutch,Graphic Design,7.0,40.0,0.0,1,79.0,41-50,Mid,3.713572066704308
+Male,31.0,United Kingdom,English,Data Analysis,4.0,75.0,1.1,1,64.0,31-40,Mid,4.330733340286331
+Male,29.0,Brazil,Portuguese,Ui/Ux Design,9.0,20.0,2.6,0,68.0,20-30,Mid,3.044522437723423
+Female,57.0,Australia,English,Graphic Design,17.0,20.0,3.6,0,63.0,51-60,Senior,3.044522437723423
+Male,47.0,India,Hindi,Devops,8.0,20.0,4.5,1,72.0,41-50,Mid,3.044522437723423
+Male,47.0,South Africa,Afrikaans,Ai,14.0,30.0,0.0,1,86.0,41-50,Senior,3.4339872044851463
+Female,45.0,France,French,Graphic Design,21.0,30.0,1.5,1,73.0,41-50,Expert,3.4339872044851463
+Male,24.0,Turkey,Turkish,Machine Learning,1.0,30.0,3.7,0,95.0,20-30,Junior,3.4339872044851463
+Female,31.0,Argentina,Spanish,Mobile Apps,12.0,20.0,2.3,0,90.0,31-40,Senior,3.044522437723423
+Female,20.0,Mexico,Spanish,Graphic Design,2.0,20.0,2.8,0,78.0,20-30,Junior,3.044522437723423
+Male,38.0,Japan,Japanese,Web Development,3.0,30.0,3.5,0,97.0,31-40,Junior,3.4339872044851463
+Female,33.0,Germany,German,Ui/Ux Design,11.0,40.0,0.0,1,65.0,31-40,Senior,3.713572066704308
+Female,31.0,Australia,English,Web Development,4.0,40.0,3.2,1,78.0,31-40,Mid,3.713572066704308
+Male,41.0,Spain,Spanish,Machine Learning,21.0,50.0,3.3,1,65.0,41-50,Expert,3.9318256327243257
+Male,54.0,Turkey,Turkish,Web Development,0.0,20.0,4.9,0,79.0,51-60,Junior,3.044522437723423
+Male,50.0,Mexico,Spanish,Data Analysis,6.0,30.0,2.2,1,95.0,41-50,Mid,3.4339872044851463
+Male,48.0,Brazil,Portuguese,Machine Learning,18.0,40.0,2.6,1,88.0,41-50,Senior,3.713572066704308
+Female,49.0,Mexico,Spanish,Graphic Design,9.0,40.0,1.8,0,79.0,41-50,Mid,3.713572066704308
+Male,21.0,South Korea,Korean,Graphic Design,1.0,75.0,4.6,0,92.0,20-30,Junior,4.330733340286331
+Male,58.0,Australia,English,Graphic Design,20.0,75.0,2.8,0,75.0,51-60,Senior,4.330733340286331
+Male,41.0,Italy,Italian,Devops,9.0,30.0,1.4,0,74.0,41-50,Mid,3.4339872044851463
+Female,58.0,Russia,Russian,Blockchain Development,25.0,30.0,4.2,1,71.0,51-60,Expert,3.4339872044851463
+Female,50.0,South Africa,Afrikaans,Graphic Design,20.0,40.0,3.6,1,89.0,41-50,Senior,3.713572066704308
+Male,52.0,Indonesia,Indonesian,Web Development,33.0,100.0,1.6,0,66.0,51-60,Expert,4.61512051684126
+Male,34.0,Netherlands,Dutch,Data Analysis,6.0,100.0,2.0,0,79.0,31-40,Mid,4.61512051684126
+Male,32.0,France,French,Machine Learning,11.0,40.0,4.3,1,86.0,31-40,Senior,3.713572066704308
+Female,50.0,India,Hindi,Graphic Design,28.0,100.0,4.9,1,86.0,41-50,Expert,4.61512051684126
+Female,39.0,Argentina,Spanish,Data Analysis,11.0,100.0,3.5,1,82.0,31-40,Senior,4.61512051684126
+Female,25.0,Spain,Spanish,Ai,2.0,100.0,2.5,0,87.0,20-30,Junior,4.61512051684126
+Female,55.0,China,Mandarin,Machine Learning,7.0,100.0,1.7,1,80.0,51-60,Mid,4.61512051684126
+Male,42.0,Italy,Italian,Devops,10.0,100.0,4.6,1,71.0,41-50,Mid,4.61512051684126
+Male,43.0,Russia,Russian,Mobile Apps,6.0,50.0,2.6,0,77.0,41-50,Mid,3.9318256327243257
+Male,54.0,Italy,Italian,Devops,29.0,30.0,1.7,0,68.0,51-60,Expert,3.4339872044851463
+Female,21.0,Egypt,Arabic,Graphic Design,0.0,20.0,1.8,0,91.0,20-30,Junior,3.044522437723423
+Male,46.0,Canada,English,Ui/Ux Design,5.0,20.0,2.2,0,75.0,41-50,Mid,3.044522437723423
+Female,30.0,Spain,Spanish,Blockchain Development,11.0,40.0,1.0,0,90.0,20-30,Senior,3.713572066704308
+Male,36.0,China,Mandarin,Machine Learning,11.0,75.0,3.2,0,93.0,31-40,Senior,4.330733340286331
+Female,47.0,Germany,German,Data Analysis,15.0,40.0,2.1,1,94.0,41-50,Senior,3.713572066704308
+Female,43.0,Canada,English,Mobile Apps,1.0,50.0,4.6,1,64.0,41-50,Junior,3.9318256327243257
+Male,57.0,South Korea,Korean,Cybersecurity,8.0,20.0,0.0,1,84.0,51-60,Mid,3.044522437723423
+Male,52.0,Italy,Italian,Machine Learning,30.0,20.0,2.8,0,87.0,51-60,Expert,3.044522437723423
+Male,41.0,Germany,German,Blockchain Development,8.0,40.0,0.0,0,64.0,41-50,Mid,3.713572066704308
+Female,22.0,Indonesia,Indonesian,Machine Learning,0.0,100.0,2.7,1,64.0,20-30,Junior,4.61512051684126
+Male,41.0,India,Hindi,Machine Learning,12.0,20.0,0.0,1,80.0,41-50,Senior,3.044522437723423
+Female,58.0,Spain,Spanish,Mobile Apps,4.0,50.0,3.1,0,90.0,51-60,Mid,3.9318256327243257
+Male,39.0,South Korea,Korean,Web Development,14.0,100.0,0.0,1,92.0,31-40,Senior,4.61512051684126
+Male,32.0,Indonesia,Indonesian,Graphic Design,14.0,40.0,2.6,0,96.0,31-40,Senior,3.713572066704308
+Male,37.0,Canada,English,Ui/Ux Design,2.0,30.0,2.3,1,79.0,31-40,Junior,3.4339872044851463
+Female,21.0,China,Mandarin,Cybersecurity,2.0,100.0,2.4,1,79.0,20-30,Junior,4.61512051684126
+Male,41.0,South Korea,Korean,Machine Learning,4.0,75.0,2.6,0,85.0,41-50,Mid,4.330733340286331
+Female,21.0,Canada,English,Ai,0.0,40.0,1.1,0,79.0,20-30,Junior,3.713572066704308
+Female,58.0,China,Mandarin,Machine Learning,9.0,30.0,0.0,1,65.0,51-60,Mid,3.4339872044851463
+Male,60.0,Canada,English,Machine Learning,3.0,40.0,4.7,0,63.0,51-60,Junior,3.713572066704308
+Male,27.0,South Africa,Afrikaans,Web Development,2.0,40.0,1.2,0,79.0,20-30,Junior,3.713572066704308
+Female,29.0,Germany,German,Machine Learning,10.0,40.0,1.2,0,78.0,20-30,Mid,3.713572066704308
+Female,54.0,Canada,English,Graphic Design,33.0,75.0,0.0,1,62.0,51-60,Expert,4.330733340286331
+Male,52.0,Mexico,Spanish,Machine Learning,12.0,40.0,1.2,0,76.0,51-60,Senior,3.713572066704308
+Female,55.0,Indonesia,Indonesian,Blockchain Development,18.0,100.0,2.9,0,97.0,51-60,Senior,4.61512051684126
+Male,37.0,Brazil,Portuguese,Blockchain Development,4.0,40.0,2.6,0,79.0,31-40,Mid,3.713572066704308
+Female,34.0,Egypt,Arabic,Data Analysis,11.0,50.0,3.9,1,82.0,31-40,Senior,3.9318256327243257
+Male,20.0,France,French,Data Analysis,1.0,50.0,3.1,0,71.0,20-30,Junior,3.9318256327243257
+Male,22.0,Mexico,Spanish,Ui/Ux Design,2.0,40.0,0.0,1,79.0,20-30,Junior,3.713572066704308
+Female,23.0,South Korea,Korean,Graphic Design,2.0,50.0,3.2,1,79.0,20-30,Junior,3.9318256327243257
+Female,53.0,South Korea,Korean,Blockchain Development,34.0,30.0,2.6,1,79.0,51-60,Expert,3.4339872044851463
+Female,56.0,South Korea,Korean,Graphic Design,27.0,100.0,4.7,1,69.0,51-60,Expert,4.61512051684126
+Male,27.0,Canada,English,Ai,4.0,75.0,5.0,0,88.0,20-30,Mid,4.330733340286331
+Male,34.0,Italy,Italian,Mobile Apps,11.0,40.0,2.6,0,67.0,31-40,Senior,3.713572066704308
+Male,29.0,United States,English,Web Development,4.0,50.0,4.0,0,79.0,20-30,Mid,3.9318256327243257
+Male,34.0,India,Hindi,Ai,11.0,40.0,1.2,1,79.0,31-40,Senior,3.713572066704308
+Female,32.0,Mexico,Spanish,Ai,1.0,100.0,4.7,0,67.0,31-40,Junior,4.61512051684126
+Female,21.0,South Africa,Afrikaans,Machine Learning,2.0,20.0,2.4,0,86.0,20-30,Junior,3.044522437723423
+Male,20.0,Mexico,Spanish,Graphic Design,2.0,40.0,1.1,0,69.0,20-30,Junior,3.713572066704308
+Female,35.0,United States,English,Mobile Apps,10.0,50.0,1.4,1,85.0,31-40,Mid,3.9318256327243257
+Female,47.0,United States,English,Ui/Ux Design,18.0,40.0,3.4,0,60.0,41-50,Senior,3.713572066704308
+Female,41.0,Turkey,Turkish,Blockchain Development,4.0,40.0,2.7,1,70.0,41-50,Mid,3.713572066704308
+Male,58.0,Argentina,Spanish,Web Development,23.0,40.0,4.9,0,79.0,51-60,Expert,3.713572066704308
+Male,34.0,China,Mandarin,Data Analysis,6.0,75.0,1.9,1,81.0,31-40,Mid,4.330733340286331
+Female,50.0,India,Hindi,Mobile Apps,5.0,100.0,2.6,1,79.0,41-50,Mid,4.61512051684126
+Female,42.0,Mexico,Spanish,Devops,19.0,75.0,4.6,0,78.0,41-50,Senior,4.330733340286331
+Male,43.0,Germany,German,Ui/Ux Design,6.0,50.0,0.0,0,81.0,41-50,Mid,3.9318256327243257
+Male,34.0,Germany,German,Data Analysis,8.0,75.0,1.8,1,71.0,31-40,Mid,4.330733340286331
+Male,24.0,Spain,Spanish,Mobile Apps,3.0,75.0,2.0,0,79.0,20-30,Junior,4.330733340286331
+Male,48.0,South Africa,Afrikaans,Ui/Ux Design,8.0,30.0,5.0,1,99.0,41-50,Mid,3.4339872044851463
+Female,39.0,South Korea,Korean,Data Analysis,12.0,20.0,3.2,1,66.0,31-40,Senior,3.044522437723423
+Female,57.0,Australia,English,Blockchain Development,30.0,30.0,2.4,0,80.0,51-60,Expert,3.4339872044851463
+Female,44.0,Canada,English,Web Development,21.0,100.0,2.9,0,83.0,41-50,Expert,4.61512051684126
+Male,37.0,Brazil,Portuguese,Ui/Ux Design,17.0,20.0,0.0,1,87.0,31-40,Senior,3.044522437723423
+Male,50.0,Turkey,Turkish,Data Analysis,9.0,30.0,3.0,0,76.0,41-50,Mid,3.4339872044851463
+Male,50.0,Spain,Spanish,Ui/Ux Design,2.0,50.0,1.6,0,89.0,41-50,Junior,3.9318256327243257
+Female,28.0,France,French,Graphic Design,1.0,20.0,3.6,1,94.0,20-30,Junior,3.044522437723423
+Male,48.0,Italy,Italian,Web Development,23.0,40.0,2.1,0,68.0,41-50,Expert,3.713572066704308
+Male,42.0,Germany,German,Devops,8.0,30.0,3.6,1,96.0,41-50,Mid,3.4339872044851463
+Female,37.0,Canada,English,Data Analysis,6.0,20.0,2.7,1,91.0,31-40,Mid,3.044522437723423
+Male,21.0,India,Hindi,Blockchain Development,1.0,100.0,2.1,1,92.0,20-30,Junior,4.61512051684126
+Male,50.0,South Korea,Korean,Web Development,19.0,40.0,4.9,0,82.0,41-50,Senior,3.713572066704308
+Female,22.0,Argentina,Spanish,Ai,2.0,30.0,2.1,0,79.0,20-30,Junior,3.4339872044851463
+Female,39.0,Japan,Japanese,Web Development,21.0,100.0,0.0,0,91.0,31-40,Expert,4.61512051684126
+Female,25.0,Japan,Japanese,Machine Learning,3.0,50.0,2.8,1,86.0,20-30,Junior,3.9318256327243257
+Female,47.0,South Africa,Afrikaans,Mobile Apps,14.0,40.0,2.6,0,69.0,41-50,Senior,3.713572066704308
+Female,35.0,South Africa,Afrikaans,Ui/Ux Design,10.0,100.0,4.7,1,84.0,31-40,Mid,4.61512051684126
+Female,41.0,United Kingdom,English,Cybersecurity,5.0,100.0,1.3,0,60.0,41-50,Mid,4.61512051684126
+Male,35.0,Netherlands,Dutch,Blockchain Development,6.0,75.0,1.6,1,97.0,31-40,Mid,4.330733340286331
+Male,59.0,France,French,Web Development,21.0,100.0,0.0,0,70.0,51-60,Expert,4.61512051684126
+Female,26.0,China,Mandarin,Ui/Ux Design,4.0,100.0,3.6,0,81.0,20-30,Mid,4.61512051684126
+Male,44.0,Russia,Russian,Machine Learning,18.0,20.0,4.7,1,88.0,41-50,Senior,3.044522437723423
+Female,31.0,South Africa,Afrikaans,Ui/Ux Design,12.0,40.0,2.6,1,100.0,31-40,Senior,3.713572066704308
+Male,60.0,Turkey,Turkish,Data Analysis,6.0,40.0,3.2,0,95.0,51-60,Mid,3.713572066704308
+Female,23.0,United Kingdom,English,Blockchain Development,4.0,20.0,2.6,0,71.0,20-30,Mid,3.044522437723423
+Male,42.0,Indonesia,Indonesian,Ui/Ux Design,13.0,20.0,4.7,0,85.0,41-50,Senior,3.044522437723423
+Female,48.0,India,Hindi,Mobile Apps,6.0,30.0,2.6,0,96.0,41-50,Mid,3.4339872044851463
+Male,42.0,Netherlands,Dutch,Graphic Design,10.0,20.0,2.4,1,92.0,41-50,Mid,3.044522437723423
+Male,52.0,South Korea,Korean,Cybersecurity,20.0,50.0,2.6,0,79.0,51-60,Senior,3.9318256327243257
+Female,55.0,Japan,Japanese,Web Development,20.0,75.0,2.9,0,79.0,51-60,Senior,4.330733340286331
+Female,58.0,South Africa,Afrikaans,Cybersecurity,11.0,50.0,0.0,0,79.0,51-60,Senior,3.9318256327243257
+Female,46.0,South Korea,Korean,Machine Learning,12.0,20.0,0.0,0,89.0,41-50,Senior,3.044522437723423
+Female,45.0,Spain,Spanish,Machine Learning,1.0,100.0,1.5,1,100.0,41-50,Junior,4.61512051684126
+Female,56.0,India,Hindi,Machine Learning,2.0,30.0,1.9,1,81.0,51-60,Junior,3.4339872044851463
+Male,44.0,United Kingdom,English,Blockchain Development,13.0,100.0,3.1,1,95.0,41-50,Senior,4.61512051684126
+Male,46.0,Indonesia,Indonesian,Ui/Ux Design,0.0,40.0,1.8,0,88.0,41-50,Junior,3.713572066704308
+Female,27.0,Japan,Japanese,Web Development,7.0,30.0,2.4,1,66.0,20-30,Mid,3.4339872044851463
+Female,49.0,India,Hindi,Blockchain Development,13.0,100.0,4.2,1,84.0,41-50,Senior,4.61512051684126
+Male,53.0,Mexico,Spanish,Web Development,21.0,50.0,1.4,0,79.0,51-60,Expert,3.9318256327243257
+Male,56.0,Australia,English,Web Development,19.0,40.0,1.2,1,82.0,51-60,Senior,3.713572066704308
+Female,56.0,United Kingdom,English,Devops,34.0,40.0,2.1,1,84.0,51-60,Expert,3.713572066704308
+Male,38.0,South Africa,Afrikaans,Data Analysis,3.0,100.0,1.4,0,73.0,31-40,Junior,4.61512051684126
+Male,20.0,South Korea,Korean,Mobile Apps,0.0,30.0,3.8,0,93.0,20-30,Junior,3.4339872044851463
+Female,38.0,Canada,English,Machine Learning,20.0,50.0,0.0,0,64.0,31-40,Senior,3.9318256327243257
+Female,41.0,Netherlands,Dutch,Mobile Apps,6.0,40.0,3.5,0,76.0,41-50,Mid,3.713572066704308
+Male,46.0,India,Hindi,Machine Learning,13.0,100.0,0.0,1,97.0,41-50,Senior,4.61512051684126
+Male,36.0,South Africa,Afrikaans,Data Analysis,9.0,75.0,2.2,0,95.0,31-40,Mid,4.330733340286331
+Male,33.0,Russia,Russian,Web Development,2.0,75.0,2.5,0,65.0,31-40,Junior,4.330733340286331
+Female,37.0,Canada,English,Graphic Design,0.0,50.0,4.7,0,77.0,31-40,Junior,3.9318256327243257
+Male,20.0,Egypt,Arabic,Data Analysis,0.0,20.0,3.9,0,79.0,20-30,Junior,3.044522437723423
+Female,48.0,China,Mandarin,Data Analysis,2.0,75.0,1.6,0,67.0,41-50,Junior,4.330733340286331
+Male,27.0,France,French,Cybersecurity,2.0,50.0,2.6,0,84.0,20-30,Junior,3.9318256327243257
+Male,34.0,South Korea,Korean,Mobile Apps,1.0,30.0,3.6,1,87.0,31-40,Junior,3.4339872044851463
+Male,55.0,Brazil,Portuguese,Machine Learning,14.0,30.0,1.2,1,91.0,51-60,Senior,3.4339872044851463
+Female,44.0,South Africa,Afrikaans,Machine Learning,14.0,75.0,3.0,0,78.0,41-50,Senior,4.330733340286331
+Male,31.0,Netherlands,Dutch,Ui/Ux Design,2.0,50.0,3.9,0,79.0,31-40,Junior,3.9318256327243257
+Male,34.0,Australia,English,Devops,1.0,40.0,1.7,0,74.0,31-40,Junior,3.713572066704308
+Female,47.0,Brazil,Portuguese,Devops,13.0,20.0,4.5,0,91.0,41-50,Senior,3.044522437723423
+Male,50.0,United States,English,Graphic Design,23.0,40.0,3.6,1,71.0,41-50,Expert,3.713572066704308
+Male,39.0,Germany,German,Cybersecurity,9.0,75.0,3.6,1,87.0,31-40,Mid,4.330733340286331
+Female,26.0,Argentina,Spanish,Blockchain Development,3.0,100.0,2.8,1,61.0,20-30,Junior,4.61512051684126
+Male,41.0,Netherlands,Dutch,Devops,0.0,100.0,5.0,0,79.0,41-50,Junior,4.61512051684126
+Male,32.0,Germany,German,Graphic Design,0.0,100.0,1.4,1,81.0,31-40,Junior,4.61512051684126
+Female,55.0,Russia,Russian,Data Analysis,17.0,30.0,2.6,0,79.0,51-60,Senior,3.4339872044851463
+Male,32.0,Argentina,Spanish,Machine Learning,9.0,40.0,4.6,1,84.0,31-40,Mid,3.713572066704308
+Male,30.0,South Korea,Korean,Blockchain Development,4.0,20.0,3.3,0,79.0,20-30,Mid,3.044522437723423
+Female,37.0,Canada,English,Cybersecurity,0.0,40.0,3.7,1,79.0,31-40,Junior,3.713572066704308
+Male,52.0,Brazil,Portuguese,Graphic Design,33.0,40.0,0.0,1,60.0,51-60,Expert,3.713572066704308
+Male,48.0,India,Hindi,Cybersecurity,18.0,50.0,0.0,1,64.0,41-50,Senior,3.9318256327243257
+Female,28.0,Japan,Japanese,Mobile Apps,9.0,40.0,2.6,1,64.0,20-30,Mid,3.713572066704308
+Female,58.0,Spain,Spanish,Data Analysis,40.0,75.0,3.4,1,100.0,51-60,Expert,4.330733340286331
+Male,30.0,Argentina,Spanish,Web Development,1.0,40.0,1.6,1,100.0,20-30,Junior,3.713572066704308
+Female,47.0,China,Mandarin,Mobile Apps,5.0,20.0,1.9,0,79.0,41-50,Mid,3.044522437723423
+Male,44.0,Argentina,Spanish,Ai,4.0,50.0,0.0,1,83.0,41-50,Mid,3.9318256327243257
+Male,56.0,Italy,Italian,Machine Learning,13.0,40.0,2.6,1,87.0,51-60,Senior,3.713572066704308
+Female,53.0,United States,English,Mobile Apps,33.0,100.0,2.6,0,75.0,51-60,Expert,4.61512051684126
+Male,59.0,United Kingdom,English,Mobile Apps,22.0,40.0,1.1,1,61.0,51-60,Expert,3.713572066704308
+Male,60.0,United States,English,Devops,34.0,40.0,2.5,0,93.0,51-60,Expert,3.713572066704308
+Female,33.0,Germany,German,Mobile Apps,8.0,30.0,3.6,1,79.0,31-40,Mid,3.4339872044851463
+Female,21.0,Argentina,Spanish,Web Development,1.0,20.0,2.6,0,99.0,20-30,Junior,3.044522437723423
+Male,54.0,United Kingdom,English,Ui/Ux Design,20.0,50.0,4.4,0,73.0,51-60,Senior,3.9318256327243257
+Female,33.0,United States,English,Graphic Design,11.0,75.0,2.1,0,96.0,31-40,Senior,4.330733340286331
+Female,57.0,Turkey,Turkish,Data Analysis,2.0,40.0,0.0,0,60.0,51-60,Junior,3.713572066704308
+Male,36.0,South Korea,Korean,Graphic Design,6.0,20.0,1.0,1,64.0,31-40,Mid,3.044522437723423
+Male,50.0,Germany,German,Blockchain Development,20.0,30.0,0.0,0,79.0,41-50,Senior,3.4339872044851463
+Female,37.0,Canada,English,Devops,9.0,20.0,4.9,0,79.0,31-40,Mid,3.044522437723423
+Male,53.0,Italy,Italian,Ai,4.0,30.0,4.7,0,99.0,51-60,Mid,3.4339872044851463
+Female,22.0,Italy,Italian,Blockchain Development,3.0,40.0,2.1,0,79.0,20-30,Junior,3.713572066704308
+Female,55.0,Netherlands,Dutch,Mobile Apps,33.0,40.0,1.5,1,71.0,51-60,Expert,3.713572066704308
+Male,22.0,Australia,English,Cybersecurity,1.0,40.0,2.6,0,72.0,20-30,Junior,3.713572066704308
+Female,45.0,Turkey,Turkish,Web Development,23.0,50.0,0.0,0,66.0,41-50,Expert,3.9318256327243257
+Male,36.0,France,French,Data Analysis,13.0,40.0,2.6,0,78.0,31-40,Senior,3.713572066704308
+Male,23.0,Australia,English,Devops,1.0,20.0,4.0,1,100.0,20-30,Junior,3.044522437723423
+Male,55.0,Italy,Italian,Devops,15.0,40.0,4.5,0,79.0,51-60,Senior,3.713572066704308
+Female,50.0,Brazil,Portuguese,Mobile Apps,18.0,75.0,3.8,0,67.0,41-50,Senior,4.330733340286331
+Male,48.0,United States,English,Machine Learning,21.0,50.0,4.0,0,78.0,41-50,Expert,3.9318256327243257
+Male,23.0,Netherlands,Dutch,Devops,1.0,40.0,4.9,1,78.0,20-30,Junior,3.713572066704308
+Female,49.0,Canada,English,Web Development,25.0,30.0,3.4,0,75.0,41-50,Expert,3.4339872044851463
+Female,47.0,Italy,Italian,Cybersecurity,12.0,50.0,2.1,1,67.0,41-50,Senior,3.9318256327243257
+Female,56.0,Japan,Japanese,Graphic Design,32.0,40.0,0.0,1,86.0,51-60,Expert,3.713572066704308
+Male,58.0,Argentina,Spanish,Ui/Ux Design,9.0,100.0,4.5,0,77.0,51-60,Mid,4.61512051684126
+Male,32.0,South Korea,Korean,Ui/Ux Design,10.0,30.0,3.8,0,61.0,31-40,Mid,3.4339872044851463
+Female,52.0,India,Hindi,Ui/Ux Design,0.0,40.0,4.3,0,90.0,51-60,Junior,3.713572066704308
+Female,22.0,China,Mandarin,Data Analysis,1.0,50.0,0.0,0,98.0,20-30,Junior,3.9318256327243257
+Male,20.0,India,Hindi,Cybersecurity,2.0,30.0,2.6,1,99.0,20-30,Junior,3.4339872044851463
+Male,56.0,Netherlands,Dutch,Data Analysis,9.0,40.0,2.6,0,61.0,51-60,Mid,3.713572066704308
+Male,41.0,Japan,Japanese,Data Analysis,22.0,50.0,1.6,1,61.0,41-50,Expert,3.9318256327243257
+Male,25.0,Argentina,Spanish,Blockchain Development,5.0,30.0,2.3,0,91.0,20-30,Mid,3.4339872044851463
+Female,44.0,Canada,English,Cybersecurity,6.0,75.0,4.6,1,72.0,41-50,Mid,4.330733340286331
+Female,46.0,Australia,English,Web Development,26.0,100.0,2.1,0,79.0,41-50,Expert,4.61512051684126
+Female,40.0,South Korea,Korean,Blockchain Development,9.0,40.0,1.5,0,96.0,31-40,Mid,3.713572066704308
+Male,41.0,China,Mandarin,Ai,9.0,40.0,1.7,1,72.0,41-50,Mid,3.713572066704308
+Male,31.0,Japan,Japanese,Data Analysis,11.0,40.0,3.3,0,79.0,31-40,Senior,3.713572066704308
+Male,33.0,South Korea,Korean,Machine Learning,9.0,40.0,4.3,1,63.0,31-40,Mid,3.713572066704308
+Female,31.0,Brazil,Portuguese,Machine Learning,3.0,20.0,2.6,0,79.0,31-40,Junior,3.044522437723423
+Female,49.0,Italy,Italian,Data Analysis,15.0,75.0,2.6,0,83.0,41-50,Senior,4.330733340286331
+Male,35.0,Mexico,Spanish,Graphic Design,12.0,20.0,4.1,0,94.0,31-40,Senior,3.044522437723423
+Male,45.0,India,Hindi,Data Analysis,19.0,40.0,2.2,1,78.0,41-50,Senior,3.713572066704308
+Female,39.0,Netherlands,Dutch,Data Analysis,13.0,30.0,1.1,1,79.0,31-40,Senior,3.4339872044851463
+Male,41.0,Argentina,Spanish,Blockchain Development,9.0,50.0,2.1,1,82.0,41-50,Mid,3.9318256327243257
+Male,24.0,Germany,German,Cybersecurity,3.0,30.0,2.3,0,66.0,20-30,Junior,3.4339872044851463
+Male,50.0,Australia,English,Graphic Design,26.0,40.0,3.6,1,82.0,41-50,Expert,3.713572066704308
+Female,23.0,Germany,German,Machine Learning,4.0,20.0,4.7,1,84.0,20-30,Mid,3.044522437723423
+Male,27.0,Canada,English,Cybersecurity,8.0,20.0,4.8,0,81.0,20-30,Mid,3.044522437723423
+Male,58.0,South Africa,Afrikaans,Ai,10.0,75.0,4.2,0,71.0,51-60,Mid,4.330733340286331
+Male,37.0,Italy,Italian,Machine Learning,5.0,40.0,4.8,1,61.0,31-40,Mid,3.713572066704308
+Male,39.0,Spain,Spanish,Blockchain Development,18.0,75.0,4.0,1,66.0,31-40,Senior,4.330733340286331
+Female,46.0,Egypt,Arabic,Data Analysis,10.0,20.0,2.5,1,97.0,41-50,Mid,3.044522437723423
+Female,41.0,United Kingdom,English,Ui/Ux Design,0.0,20.0,4.8,0,74.0,41-50,Junior,3.044522437723423
+Female,39.0,Mexico,Spanish,Blockchain Development,21.0,30.0,4.7,0,61.0,31-40,Expert,3.4339872044851463
+Male,59.0,Egypt,Arabic,Blockchain Development,25.0,20.0,4.0,0,90.0,51-60,Expert,3.044522437723423
+Male,21.0,Netherlands,Dutch,Devops,0.0,40.0,4.1,1,97.0,20-30,Junior,3.713572066704308
+Female,23.0,Canada,English,Devops,5.0,100.0,3.2,1,79.0,20-30,Mid,4.61512051684126
+Male,27.0,Egypt,Arabic,Web Development,1.0,20.0,4.3,0,76.0,20-30,Junior,3.044522437723423
+Male,27.0,China,Mandarin,Cybersecurity,4.0,40.0,4.4,0,92.0,20-30,Mid,3.713572066704308
+Female,48.0,South Africa,Afrikaans,Data Analysis,21.0,40.0,2.3,0,79.0,41-50,Expert,3.713572066704308
+Male,21.0,South Africa,Afrikaans,Ai,1.0,20.0,2.4,1,66.0,20-30,Junior,3.044522437723423
+Male,37.0,Italy,Italian,Devops,9.0,50.0,4.6,0,83.0,31-40,Mid,3.9318256327243257
+Female,31.0,Germany,German,Ui/Ux Design,10.0,50.0,0.0,0,79.0,31-40,Mid,3.9318256327243257
+Female,41.0,Egypt,Arabic,Blockchain Development,21.0,40.0,0.0,1,79.0,41-50,Expert,3.713572066704308
+Male,31.0,Russia,Russian,Cybersecurity,0.0,20.0,4.2,1,82.0,31-40,Junior,3.044522437723423
+Female,58.0,Argentina,Spanish,Data Analysis,0.0,50.0,2.3,0,77.0,51-60,Junior,3.9318256327243257
+Female,45.0,Netherlands,Dutch,Data Analysis,17.0,50.0,4.7,1,73.0,41-50,Senior,3.9318256327243257
+Male,51.0,South Korea,Korean,Cybersecurity,5.0,40.0,3.0,1,88.0,51-60,Mid,3.713572066704308
+Male,54.0,United States,English,Ui/Ux Design,3.0,30.0,2.4,0,81.0,51-60,Junior,3.4339872044851463
+Male,22.0,Russia,Russian,Data Analysis,1.0,20.0,1.7,0,78.0,20-30,Junior,3.044522437723423
+Male,36.0,Turkey,Turkish,Cybersecurity,2.0,75.0,0.0,0,92.0,31-40,Junior,4.330733340286331
+Male,50.0,Germany,German,Devops,32.0,30.0,2.6,0,64.0,41-50,Expert,3.4339872044851463
+Female,41.0,Australia,English,Blockchain Development,14.0,30.0,0.0,1,78.0,41-50,Senior,3.4339872044851463
+Male,41.0,South Africa,Afrikaans,Web Development,10.0,20.0,1.8,1,85.0,41-50,Mid,3.044522437723423
+Female,51.0,Netherlands,Dutch,Cybersecurity,27.0,50.0,0.0,0,78.0,51-60,Expert,3.9318256327243257
+Male,21.0,France,French,Ai,2.0,30.0,3.8,1,98.0,20-30,Junior,3.4339872044851463
+Male,51.0,Japan,Japanese,Ai,33.0,40.0,0.0,1,63.0,51-60,Expert,3.713572066704308
+Female,37.0,Indonesia,Indonesian,Graphic Design,11.0,40.0,3.6,0,73.0,31-40,Senior,3.713572066704308
+Female,20.0,Spain,Spanish,Graphic Design,2.0,30.0,0.0,0,94.0,20-30,Junior,3.4339872044851463
+Female,50.0,Australia,English,Web Development,31.0,50.0,4.1,0,81.0,41-50,Expert,3.9318256327243257
+Female,58.0,Turkey,Turkish,Graphic Design,17.0,50.0,2.6,1,61.0,51-60,Senior,3.9318256327243257
+Female,40.0,Brazil,Portuguese,Ui/Ux Design,2.0,100.0,0.0,0,79.0,31-40,Junior,4.61512051684126
+Female,26.0,Egypt,Arabic,Web Development,2.0,20.0,1.3,0,83.0,20-30,Junior,3.044522437723423
+Female,44.0,South Korea,Korean,Cybersecurity,22.0,30.0,4.1,1,79.0,41-50,Expert,3.4339872044851463
+Male,42.0,Mexico,Spanish,Machine Learning,8.0,50.0,2.4,0,68.0,41-50,Mid,3.9318256327243257
+Male,38.0,Mexico,Spanish,Data Analysis,9.0,50.0,0.0,0,74.0,31-40,Mid,3.9318256327243257
+Male,51.0,Egypt,Arabic,Web Development,32.0,100.0,4.4,0,91.0,51-60,Expert,4.61512051684126
+Female,36.0,France,French,Ai,8.0,100.0,2.2,1,97.0,31-40,Mid,4.61512051684126
+Female,37.0,Australia,English,Mobile Apps,10.0,30.0,0.0,0,96.0,31-40,Mid,3.4339872044851463
+Male,31.0,South Africa,Afrikaans,Devops,0.0,50.0,1.1,1,73.0,31-40,Junior,3.9318256327243257
+Female,47.0,India,Hindi,Cybersecurity,22.0,40.0,1.4,1,72.0,41-50,Expert,3.713572066704308
+Female,60.0,Mexico,Spanish,Ui/Ux Design,34.0,100.0,0.0,1,74.0,51-60,Expert,4.61512051684126
+Female,48.0,Argentina,Spanish,Mobile Apps,5.0,30.0,1.5,0,79.0,41-50,Mid,3.4339872044851463
+Female,24.0,India,Hindi,Ai,3.0,20.0,0.0,1,79.0,20-30,Junior,3.044522437723423
+Female,35.0,Netherlands,Dutch,Machine Learning,10.0,75.0,0.0,0,74.0,31-40,Mid,4.330733340286331
+Male,35.0,United States,English,Devops,9.0,100.0,3.5,1,71.0,31-40,Mid,4.61512051684126
+Female,29.0,Netherlands,Dutch,Ui/Ux Design,6.0,40.0,4.8,0,83.0,20-30,Mid,3.713572066704308
+Female,36.0,Italy,Italian,Machine Learning,1.0,75.0,2.6,0,63.0,31-40,Junior,4.330733340286331
+Female,44.0,Canada,English,Ai,0.0,40.0,4.8,0,84.0,41-50,Junior,3.713572066704308
+Male,44.0,South Africa,Afrikaans,Web Development,9.0,40.0,1.4,0,93.0,41-50,Mid,3.713572066704308
+Male,40.0,India,Hindi,Ai,13.0,100.0,1.1,1,79.0,31-40,Senior,4.61512051684126
+Female,53.0,Netherlands,Dutch,Machine Learning,13.0,50.0,3.3,1,93.0,51-60,Senior,3.9318256327243257
+Female,35.0,Germany,German,Blockchain Development,0.0,30.0,4.6,0,97.0,31-40,Junior,3.4339872044851463
+Female,27.0,Argentina,Spanish,Machine Learning,7.0,75.0,2.8,1,92.0,20-30,Mid,4.330733340286331
+Male,34.0,Australia,English,Devops,6.0,50.0,5.0,1,92.0,31-40,Mid,3.9318256327243257
+Male,24.0,India,Hindi,Cybersecurity,2.0,75.0,4.7,0,68.0,20-30,Junior,4.330733340286331
+Male,57.0,United States,English,Ui/Ux Design,13.0,100.0,3.5,0,95.0,51-60,Senior,4.61512051684126
+Male,28.0,South Korea,Korean,Ui/Ux Design,7.0,100.0,4.3,0,76.0,20-30,Mid,4.61512051684126
+Female,26.0,Italy,Italian,Devops,7.0,100.0,3.3,1,66.0,20-30,Mid,4.61512051684126
+Male,34.0,Argentina,Spanish,Mobile Apps,15.0,75.0,2.6,0,73.0,31-40,Senior,4.330733340286331
+Male,43.0,Japan,Japanese,Ai,9.0,20.0,2.8,0,99.0,41-50,Mid,3.044522437723423
+Male,31.0,China,Mandarin,Graphic Design,5.0,40.0,2.7,1,94.0,31-40,Mid,3.713572066704308
+Female,34.0,China,Mandarin,Blockchain Development,9.0,50.0,0.0,0,84.0,31-40,Mid,3.9318256327243257
+Female,32.0,Russia,Russian,Cybersecurity,10.0,20.0,2.6,1,92.0,31-40,Mid,3.044522437723423
+Male,24.0,Egypt,Arabic,Devops,6.0,75.0,4.3,1,79.0,20-30,Mid,4.330733340286331
+Male,35.0,United Kingdom,English,Ai,8.0,50.0,2.6,0,90.0,31-40,Mid,3.9318256327243257
+Female,22.0,Australia,English,Mobile Apps,4.0,20.0,2.6,0,73.0,20-30,Mid,3.044522437723423
+Female,55.0,Egypt,Arabic,Ai,3.0,100.0,2.6,1,73.0,51-60,Junior,4.61512051684126
+Female,54.0,Argentina,Spanish,Machine Learning,9.0,30.0,2.9,1,78.0,51-60,Mid,3.4339872044851463
+Female,36.0,Netherlands,Dutch,Cybersecurity,11.0,30.0,0.0,1,63.0,31-40,Senior,3.4339872044851463
+Female,36.0,Netherlands,Dutch,Ai,17.0,50.0,1.3,0,64.0,31-40,Senior,3.9318256327243257
+Female,25.0,Argentina,Spanish,Web Development,1.0,75.0,0.0,1,79.0,20-30,Junior,4.330733340286331
+Male,46.0,Indonesia,Indonesian,Ai,16.0,20.0,4.8,1,86.0,41-50,Senior,3.044522437723423
+Male,41.0,Argentina,Spanish,Machine Learning,11.0,40.0,2.4,0,79.0,41-50,Senior,3.713572066704308
+Female,21.0,Russia,Russian,Mobile Apps,3.0,100.0,4.7,0,96.0,20-30,Junior,4.61512051684126
+Male,29.0,United States,English,Graphic Design,9.0,75.0,2.0,0,79.0,20-30,Mid,4.330733340286331
+Female,44.0,United States,English,Mobile Apps,3.0,50.0,2.2,0,77.0,41-50,Junior,3.9318256327243257
+Male,40.0,Canada,English,Machine Learning,1.0,100.0,2.1,1,79.0,31-40,Junior,4.61512051684126
+Female,27.0,Egypt,Arabic,Data Analysis,1.0,30.0,1.7,0,65.0,20-30,Junior,3.4339872044851463
+Male,53.0,France,French,Mobile Apps,35.0,40.0,5.0,1,62.0,51-60,Expert,3.713572066704308
+Male,20.0,Turkey,Turkish,Data Analysis,1.0,50.0,2.9,0,81.0,20-30,Junior,3.9318256327243257
+Female,41.0,Japan,Japanese,Devops,12.0,50.0,4.1,1,62.0,41-50,Senior,3.9318256327243257
+Male,26.0,Mexico,Spanish,Web Development,8.0,40.0,4.9,0,87.0,20-30,Mid,3.713572066704308
+Female,49.0,Brazil,Portuguese,Machine Learning,13.0,100.0,2.5,0,79.0,41-50,Senior,4.61512051684126
+Female,20.0,Egypt,Arabic,Data Analysis,0.0,30.0,0.0,1,76.0,20-30,Junior,3.4339872044851463
+Female,39.0,China,Mandarin,Blockchain Development,11.0,100.0,2.8,0,70.0,31-40,Senior,4.61512051684126
+Female,41.0,China,Mandarin,Machine Learning,19.0,100.0,3.8,1,71.0,41-50,Senior,4.61512051684126
+Male,59.0,Canada,English,Mobile Apps,30.0,30.0,4.3,1,83.0,51-60,Expert,3.4339872044851463
+Female,45.0,Australia,English,Blockchain Development,8.0,40.0,0.0,0,78.0,41-50,Mid,3.713572066704308
+Male,22.0,Indonesia,Indonesian,Cybersecurity,0.0,40.0,1.3,1,78.0,20-30,Junior,3.713572066704308
+Female,48.0,India,Hindi,Mobile Apps,7.0,50.0,4.7,1,60.0,41-50,Mid,3.9318256327243257
+Male,36.0,France,French,Blockchain Development,11.0,40.0,1.3,1,79.0,31-40,Senior,3.713572066704308
+Female,57.0,China,Mandarin,Blockchain Development,9.0,75.0,4.8,1,79.0,51-60,Mid,4.330733340286331
+Male,42.0,United States,English,Ui/Ux Design,14.0,30.0,1.3,0,94.0,41-50,Senior,3.4339872044851463
+Male,31.0,Indonesia,Indonesian,Cybersecurity,11.0,50.0,4.3,0,62.0,31-40,Senior,3.9318256327243257
+Male,52.0,Spain,Spanish,Cybersecurity,31.0,30.0,2.6,1,79.0,51-60,Expert,3.4339872044851463
+Male,56.0,Netherlands,Dutch,Devops,16.0,30.0,0.0,1,79.0,51-60,Senior,3.4339872044851463
+Female,24.0,Netherlands,Dutch,Devops,6.0,30.0,0.0,1,84.0,20-30,Mid,3.4339872044851463
+Male,48.0,Canada,English,Devops,21.0,75.0,2.7,1,79.0,41-50,Expert,4.330733340286331
+Male,59.0,France,French,Cybersecurity,13.0,40.0,2.4,0,65.0,51-60,Senior,3.713572066704308
+Male,41.0,United Kingdom,English,Web Development,9.0,40.0,1.9,1,94.0,41-50,Mid,3.713572066704308
+Female,41.0,Netherlands,Dutch,Mobile Apps,11.0,20.0,3.6,0,69.0,41-50,Senior,3.044522437723423
+Male,25.0,Netherlands,Dutch,Mobile Apps,0.0,50.0,2.9,1,65.0,20-30,Junior,3.9318256327243257
+Male,31.0,Egypt,Arabic,Mobile Apps,2.0,75.0,2.8,0,60.0,31-40,Junior,4.330733340286331
+Male,40.0,Turkey,Turkish,Devops,12.0,75.0,2.6,0,79.0,31-40,Senior,4.330733340286331
+Female,48.0,Russia,Russian,Blockchain Development,13.0,100.0,2.7,0,62.0,41-50,Senior,4.61512051684126
+Female,24.0,South Africa,Afrikaans,Mobile Apps,6.0,30.0,1.1,1,79.0,20-30,Mid,3.4339872044851463
+Male,33.0,Indonesia,Indonesian,Web Development,10.0,30.0,0.0,1,89.0,31-40,Mid,3.4339872044851463
+Female,43.0,Brazil,Portuguese,Ui/Ux Design,2.0,40.0,0.0,1,89.0,41-50,Junior,3.713572066704308
+Male,43.0,Spain,Spanish,Blockchain Development,4.0,50.0,0.0,1,100.0,41-50,Mid,3.9318256327243257
+Female,33.0,Australia,English,Web Development,11.0,40.0,4.6,1,79.0,31-40,Senior,3.713572066704308
+Female,49.0,Russia,Russian,Ui/Ux Design,14.0,40.0,1.5,0,60.0,41-50,Senior,3.713572066704308
+Male,55.0,Canada,English,Ui/Ux Design,10.0,40.0,2.0,0,85.0,51-60,Mid,3.713572066704308
+Female,33.0,South Korea,Korean,Graphic Design,3.0,40.0,1.6,0,83.0,31-40,Junior,3.713572066704308
+Male,32.0,Argentina,Spanish,Ai,3.0,30.0,1.5,0,96.0,31-40,Junior,3.4339872044851463
+Male,58.0,Netherlands,Dutch,Blockchain Development,33.0,40.0,4.1,1,83.0,51-60,Expert,3.713572066704308
+Male,49.0,Indonesia,Indonesian,Data Analysis,24.0,100.0,4.7,0,60.0,41-50,Expert,4.61512051684126
+Female,22.0,Russia,Russian,Ui/Ux Design,3.0,100.0,3.6,1,78.0,20-30,Junior,4.61512051684126
+Female,40.0,Egypt,Arabic,Web Development,11.0,20.0,1.8,1,90.0,31-40,Senior,3.044522437723423
+Male,55.0,Australia,English,Data Analysis,7.0,100.0,2.1,0,66.0,51-60,Mid,4.61512051684126
+Male,32.0,Mexico,Spanish,Devops,1.0,50.0,2.6,1,70.0,31-40,Junior,3.9318256327243257
+Female,21.0,Japan,Japanese,Ui/Ux Design,0.0,30.0,4.2,1,79.0,20-30,Junior,3.4339872044851463
+Male,23.0,South Korea,Korean,Blockchain Development,1.0,40.0,0.0,0,64.0,20-30,Junior,3.713572066704308
+Male,21.0,United Kingdom,English,Mobile Apps,1.0,30.0,1.0,0,81.0,20-30,Junior,3.4339872044851463
+Male,31.0,Argentina,Spanish,Ai,7.0,75.0,4.4,0,83.0,31-40,Mid,4.330733340286331
+Male,21.0,Mexico,Spanish,Blockchain Development,9.0,40.0,4.0,0,91.0,20-30,Mid,3.713572066704308
+Male,33.0,United Kingdom,English,Cybersecurity,6.0,50.0,3.1,0,79.0,31-40,Mid,3.9318256327243257
+Male,57.0,Brazil,Portuguese,Web Development,5.0,75.0,1.1,1,77.0,51-60,Mid,4.330733340286331
+Male,52.0,United States,English,Devops,17.0,75.0,0.0,0,94.0,51-60,Senior,4.330733340286331
+Female,21.0,Germany,German,Web Development,0.0,20.0,3.8,1,61.0,20-30,Junior,3.044522437723423
+Female,36.0,Argentina,Spanish,Ui/Ux Design,8.0,100.0,1.7,0,68.0,31-40,Mid,4.61512051684126
+Male,33.0,Spain,Spanish,Machine Learning,13.0,50.0,2.2,0,70.0,31-40,Senior,3.9318256327243257
+Female,54.0,United Kingdom,English,Data Analysis,15.0,40.0,4.1,1,71.0,51-60,Senior,3.713572066704308
+Female,33.0,United States,English,Blockchain Development,2.0,100.0,3.8,0,79.0,31-40,Junior,4.61512051684126
+Female,36.0,Japan,Japanese,Machine Learning,9.0,30.0,0.0,1,78.0,31-40,Mid,3.4339872044851463
+Female,36.0,Turkey,Turkish,Ai,3.0,50.0,0.0,0,75.0,31-40,Junior,3.9318256327243257
+Female,43.0,China,Mandarin,Ai,15.0,20.0,4.2,1,91.0,41-50,Senior,3.044522437723423
+Male,52.0,United Kingdom,English,Data Analysis,21.0,75.0,2.2,1,66.0,51-60,Expert,4.330733340286331
+Female,28.0,Indonesia,Indonesian,Cybersecurity,2.0,75.0,1.5,1,68.0,20-30,Junior,4.330733340286331
+Female,47.0,China,Mandarin,Cybersecurity,21.0,100.0,0.0,0,79.0,41-50,Expert,4.61512051684126
+Female,30.0,France,French,Devops,0.0,100.0,4.1,0,62.0,20-30,Junior,4.61512051684126
+Male,36.0,Egypt,Arabic,Blockchain Development,4.0,40.0,2.6,0,90.0,31-40,Mid,3.713572066704308
+Female,45.0,United States,English,Ui/Ux Design,23.0,100.0,2.4,0,96.0,41-50,Expert,4.61512051684126
+Female,51.0,United States,English,Blockchain Development,25.0,50.0,1.4,1,60.0,51-60,Expert,3.9318256327243257
+Male,46.0,Turkey,Turkish,Mobile Apps,10.0,40.0,4.6,1,62.0,41-50,Mid,3.713572066704308
+Female,38.0,Italy,Italian,Data Analysis,18.0,40.0,4.9,0,74.0,31-40,Senior,3.713572066704308
+Male,26.0,Spain,Spanish,Blockchain Development,1.0,20.0,0.0,1,79.0,20-30,Junior,3.044522437723423
+Female,40.0,United Kingdom,English,Devops,12.0,30.0,3.5,0,98.0,31-40,Senior,3.4339872044851463
+Male,37.0,Germany,German,Machine Learning,9.0,40.0,1.7,1,63.0,31-40,Mid,3.713572066704308
+Male,28.0,Canada,English,Blockchain Development,5.0,50.0,0.0,1,96.0,20-30,Mid,3.9318256327243257
+Female,48.0,India,Hindi,Mobile Apps,28.0,20.0,0.0,0,88.0,41-50,Expert,3.044522437723423
+Male,22.0,India,Hindi,Ai,0.0,40.0,4.6,0,79.0,20-30,Junior,3.713572066704308
+Female,41.0,Germany,German,Web Development,14.0,40.0,1.1,1,73.0,41-50,Senior,3.713572066704308
+Male,38.0,United States,English,Graphic Design,15.0,40.0,4.2,0,88.0,31-40,Senior,3.713572066704308
+Female,31.0,South Africa,Afrikaans,Ui/Ux Design,9.0,40.0,0.0,0,91.0,31-40,Mid,3.713572066704308
+Female,30.0,China,Mandarin,Mobile Apps,9.0,30.0,3.9,0,65.0,20-30,Mid,3.4339872044851463
+Male,51.0,Mexico,Spanish,Ui/Ux Design,22.0,20.0,3.4,1,90.0,51-60,Expert,3.044522437723423
+Female,21.0,Germany,German,Devops,0.0,20.0,2.6,0,72.0,20-30,Junior,3.044522437723423
+Female,20.0,Italy,Italian,Devops,1.0,40.0,2.3,1,72.0,20-30,Junior,3.713572066704308
+Male,30.0,Japan,Japanese,Blockchain Development,5.0,30.0,4.8,0,79.0,20-30,Mid,3.4339872044851463
+Male,41.0,China,Mandarin,Data Analysis,0.0,40.0,4.5,0,68.0,41-50,Junior,3.713572066704308
+Male,22.0,Spain,Spanish,Blockchain Development,0.0,30.0,0.0,0,87.0,20-30,Junior,3.4339872044851463
+Male,45.0,Mexico,Spanish,Cybersecurity,19.0,75.0,0.0,0,72.0,41-50,Senior,4.330733340286331
+Female,22.0,Australia,English,Data Analysis,2.0,40.0,1.1,0,76.0,20-30,Junior,3.713572066704308
+Female,20.0,Turkey,Turkish,Mobile Apps,0.0,100.0,0.0,0,63.0,20-30,Junior,4.61512051684126
+Female,20.0,Canada,English,Data Analysis,2.0,40.0,2.6,1,91.0,20-30,Junior,3.713572066704308
+Male,21.0,United Kingdom,English,Ai,0.0,100.0,2.6,0,73.0,20-30,Junior,4.61512051684126
+Male,22.0,Netherlands,Dutch,Cybersecurity,1.0,40.0,0.0,0,63.0,20-30,Junior,3.713572066704308
+Female,28.0,United Kingdom,English,Devops,3.0,20.0,2.6,1,79.0,20-30,Junior,3.044522437723423
+Female,59.0,Argentina,Spanish,Ai,9.0,20.0,4.1,0,75.0,51-60,Mid,3.044522437723423
+Female,28.0,France,French,Web Development,1.0,40.0,0.0,0,70.0,20-30,Junior,3.713572066704308
+Female,40.0,Australia,English,Devops,0.0,100.0,1.2,0,87.0,31-40,Junior,4.61512051684126
+Male,57.0,Italy,Italian,Blockchain Development,7.0,30.0,1.6,0,79.0,51-60,Mid,3.4339872044851463
+Male,47.0,Turkey,Turkish,Devops,1.0,50.0,3.9,1,88.0,41-50,Junior,3.9318256327243257
+Male,48.0,South Korea,Korean,Cybersecurity,21.0,40.0,0.0,1,79.0,41-50,Expert,3.713572066704308
+Male,28.0,United States,English,Ui/Ux Design,1.0,20.0,4.7,0,93.0,20-30,Junior,3.044522437723423
+Male,41.0,Turkey,Turkish,Graphic Design,15.0,40.0,3.8,1,79.0,41-50,Senior,3.713572066704308
+Female,57.0,South Africa,Afrikaans,Cybersecurity,33.0,100.0,3.5,0,74.0,51-60,Expert,4.61512051684126
+Male,60.0,Argentina,Spanish,Graphic Design,39.0,75.0,4.0,0,70.0,51-60,Expert,4.330733340286331
+Female,48.0,Egypt,Arabic,Graphic Design,21.0,30.0,1.6,1,67.0,41-50,Expert,3.4339872044851463
+Female,24.0,France,French,Cybersecurity,5.0,40.0,3.0,0,86.0,20-30,Mid,3.713572066704308
+Female,33.0,Mexico,Spanish,Devops,11.0,50.0,5.0,1,69.0,31-40,Senior,3.9318256327243257
+Female,20.0,Turkey,Turkish,Graphic Design,0.0,30.0,4.8,1,68.0,20-30,Junior,3.4339872044851463
+Male,59.0,United Kingdom,English,Devops,15.0,50.0,2.6,0,79.0,51-60,Senior,3.9318256327243257
+Female,42.0,China,Mandarin,Devops,22.0,40.0,2.9,0,61.0,41-50,Expert,3.713572066704308
+Female,22.0,Turkey,Turkish,Ui/Ux Design,3.0,40.0,3.0,1,96.0,20-30,Junior,3.713572066704308
+Male,41.0,Canada,English,Cybersecurity,11.0,50.0,3.5,1,68.0,41-50,Senior,3.9318256327243257
+Female,25.0,Argentina,Spanish,Web Development,5.0,40.0,2.6,1,75.0,20-30,Mid,3.713572066704308
+Female,38.0,Canada,English,Ui/Ux Design,3.0,40.0,4.7,0,69.0,31-40,Junior,3.713572066704308
+Female,43.0,United States,English,Devops,1.0,40.0,2.9,0,78.0,41-50,Junior,3.713572066704308
+Female,54.0,Mexico,Spanish,Ai,1.0,75.0,4.4,1,79.0,51-60,Junior,4.330733340286331
+Female,31.0,Indonesia,Indonesian,Mobile Apps,2.0,40.0,2.3,0,98.0,31-40,Junior,3.713572066704308
+Female,56.0,Mexico,Spanish,Ai,3.0,30.0,3.7,0,83.0,51-60,Junior,3.4339872044851463
+Male,46.0,Mexico,Spanish,Graphic Design,11.0,40.0,1.8,1,91.0,41-50,Senior,3.713572066704308
+Male,60.0,Egypt,Arabic,Ai,9.0,100.0,0.0,1,96.0,51-60,Mid,4.61512051684126
+Female,28.0,South Korea,Korean,Graphic Design,2.0,50.0,2.6,1,85.0,20-30,Junior,3.9318256327243257
+Female,43.0,Indonesia,Indonesian,Web Development,20.0,30.0,2.7,0,72.0,41-50,Senior,3.4339872044851463
+Male,41.0,France,French,Web Development,11.0,20.0,4.7,0,69.0,41-50,Senior,3.044522437723423
+Male,41.0,United Kingdom,English,Devops,0.0,20.0,3.1,0,90.0,41-50,Junior,3.044522437723423
+Female,40.0,United Kingdom,English,Mobile Apps,20.0,20.0,2.3,0,92.0,31-40,Senior,3.044522437723423
+Male,45.0,Germany,German,Devops,3.0,20.0,1.3,1,91.0,41-50,Junior,3.044522437723423
+Male,47.0,Egypt,Arabic,Devops,28.0,50.0,2.9,1,79.0,41-50,Expert,3.9318256327243257
+Male,34.0,India,Hindi,Data Analysis,0.0,40.0,3.3,0,98.0,31-40,Junior,3.713572066704308
+Male,47.0,United States,English,Ui/Ux Design,4.0,20.0,4.2,0,82.0,41-50,Mid,3.044522437723423
+Male,32.0,Mexico,Spanish,Ui/Ux Design,9.0,40.0,1.3,1,83.0,31-40,Mid,3.713572066704308
+Male,28.0,United Kingdom,English,Mobile Apps,2.0,100.0,4.4,1,79.0,20-30,Junior,4.61512051684126
+Male,32.0,Australia,English,Devops,1.0,100.0,3.4,1,79.0,31-40,Junior,4.61512051684126
+Female,49.0,Netherlands,Dutch,Ai,2.0,100.0,3.4,1,85.0,41-50,Junior,4.61512051684126
+Female,36.0,Argentina,Spanish,Mobile Apps,16.0,20.0,3.2,0,79.0,31-40,Senior,3.044522437723423
+Male,59.0,Mexico,Spanish,Blockchain Development,22.0,20.0,3.6,0,63.0,51-60,Expert,3.044522437723423
+Female,52.0,Canada,English,Cybersecurity,22.0,20.0,0.0,0,79.0,51-60,Expert,3.044522437723423
+Female,24.0,China,Mandarin,Blockchain Development,5.0,40.0,1.8,1,86.0,20-30,Mid,3.713572066704308
+Female,26.0,Australia,English,Graphic Design,2.0,75.0,2.5,1,60.0,20-30,Junior,4.330733340286331
+Male,55.0,Canada,English,Cybersecurity,24.0,40.0,2.0,1,88.0,51-60,Expert,3.713572066704308
+Female,56.0,Italy,Italian,Mobile Apps,37.0,40.0,0.0,0,70.0,51-60,Expert,3.713572066704308
+Male,36.0,France,French,Graphic Design,3.0,50.0,1.3,1,77.0,31-40,Junior,3.9318256327243257
+Male,48.0,Argentina,Spanish,Web Development,18.0,75.0,0.0,0,80.0,41-50,Senior,4.330733340286331
+Male,55.0,Egypt,Arabic,Machine Learning,6.0,40.0,3.6,1,79.0,51-60,Mid,3.713572066704308
+Female,56.0,Spain,Spanish,Devops,17.0,40.0,1.3,0,87.0,51-60,Senior,3.713572066704308
+Female,28.0,Canada,English,Blockchain Development,1.0,75.0,2.7,1,93.0,20-30,Junior,4.330733340286331
+Male,60.0,United States,English,Ai,39.0,100.0,1.5,0,88.0,51-60,Expert,4.61512051684126
+Male,34.0,South Korea,Korean,Blockchain Development,15.0,20.0,0.0,0,100.0,31-40,Senior,3.044522437723423
+Female,38.0,Indonesia,Indonesian,Ai,13.0,40.0,0.0,1,61.0,31-40,Senior,3.713572066704308
+Female,51.0,South Korea,Korean,Web Development,17.0,100.0,3.0,0,79.0,51-60,Senior,4.61512051684126
+Female,21.0,Japan,Japanese,Mobile Apps,1.0,30.0,1.2,0,73.0,20-30,Junior,3.4339872044851463
+Male,35.0,Italy,Italian,Ui/Ux Design,16.0,40.0,1.3,1,64.0,31-40,Senior,3.713572066704308
+Male,27.0,Brazil,Portuguese,Web Development,9.0,100.0,2.6,1,79.0,20-30,Mid,4.61512051684126
+Female,42.0,Turkey,Turkish,Mobile Apps,20.0,50.0,3.8,0,93.0,41-50,Senior,3.9318256327243257
+Female,52.0,Canada,English,Blockchain Development,29.0,30.0,3.8,0,68.0,51-60,Expert,3.4339872044851463
+Male,53.0,South Korea,Korean,Web Development,21.0,40.0,4.7,1,62.0,51-60,Expert,3.713572066704308
+Female,54.0,Italy,Italian,Mobile Apps,28.0,40.0,1.1,0,79.0,51-60,Expert,3.713572066704308
+Male,51.0,Japan,Japanese,Graphic Design,5.0,50.0,4.2,1,82.0,51-60,Mid,3.9318256327243257
+Female,30.0,South Korea,Korean,Web Development,0.0,40.0,0.0,0,79.0,20-30,Junior,3.713572066704308
+Female,45.0,Netherlands,Dutch,Machine Learning,27.0,75.0,0.0,0,85.0,41-50,Expert,4.330733340286331
+Male,57.0,Indonesia,Indonesian,Graphic Design,26.0,100.0,2.4,1,78.0,51-60,Expert,4.61512051684126
+Male,38.0,Turkey,Turkish,Blockchain Development,19.0,40.0,0.0,1,86.0,31-40,Senior,3.713572066704308
+Female,42.0,Russia,Russian,Devops,24.0,40.0,2.6,0,88.0,41-50,Expert,3.713572066704308
+Female,30.0,South Africa,Afrikaans,Devops,7.0,30.0,3.3,0,68.0,20-30,Mid,3.4339872044851463
+Female,43.0,Australia,English,Web Development,13.0,100.0,1.4,1,97.0,41-50,Senior,4.61512051684126
+Male,22.0,Egypt,Arabic,Ui/Ux Design,2.0,75.0,1.7,0,91.0,20-30,Junior,4.330733340286331
+Male,57.0,Mexico,Spanish,Machine Learning,37.0,30.0,4.8,0,79.0,51-60,Expert,3.4339872044851463
+Male,44.0,United Kingdom,English,Graphic Design,1.0,40.0,4.8,0,97.0,41-50,Junior,3.713572066704308
+Female,46.0,China,Mandarin,Devops,5.0,30.0,2.0,1,64.0,41-50,Mid,3.4339872044851463
+Male,41.0,Spain,Spanish,Blockchain Development,1.0,50.0,2.8,0,87.0,41-50,Junior,3.9318256327243257
+Female,34.0,Australia,English,Data Analysis,2.0,100.0,0.0,0,86.0,31-40,Junior,4.61512051684126
+Female,46.0,Italy,Italian,Mobile Apps,9.0,100.0,4.4,1,97.0,41-50,Mid,4.61512051684126
+Female,22.0,France,French,Blockchain Development,0.0,30.0,4.9,0,73.0,20-30,Junior,3.4339872044851463
+Female,23.0,South Africa,Afrikaans,Ai,0.0,75.0,2.3,0,60.0,20-30,Junior,4.330733340286331
+Female,60.0,Turkey,Turkish,Web Development,41.0,40.0,4.9,1,66.0,51-60,Expert,3.713572066704308
+Male,20.0,Canada,English,Devops,9.0,75.0,4.3,0,90.0,20-30,Mid,4.330733340286331
+Female,41.0,South Korea,Korean,Ui/Ux Design,23.0,75.0,1.4,0,79.0,41-50,Expert,4.330733340286331
+Male,24.0,France,French,Mobile Apps,0.0,100.0,2.6,0,79.0,20-30,Junior,4.61512051684126
+Male,44.0,Netherlands,Dutch,Machine Learning,4.0,40.0,1.3,1,77.0,41-50,Mid,3.713572066704308
+Male,52.0,China,Mandarin,Ui/Ux Design,4.0,75.0,2.3,1,79.0,51-60,Mid,4.330733340286331
+Male,35.0,Spain,Spanish,Machine Learning,13.0,40.0,3.6,0,83.0,31-40,Senior,3.713572066704308
+Female,24.0,Netherlands,Dutch,Devops,2.0,50.0,2.6,0,64.0,20-30,Junior,3.9318256327243257
+Female,46.0,Australia,English,Cybersecurity,25.0,100.0,1.3,0,80.0,41-50,Expert,4.61512051684126
+Male,57.0,Mexico,Spanish,Mobile Apps,18.0,30.0,1.1,0,90.0,51-60,Senior,3.4339872044851463
+Female,49.0,Mexico,Spanish,Web Development,24.0,50.0,0.0,0,94.0,41-50,Expert,3.9318256327243257
+Male,41.0,Japan,Japanese,Ai,7.0,40.0,1.8,0,70.0,41-50,Mid,3.713572066704308
+Male,22.0,Mexico,Spanish,Machine Learning,1.0,20.0,2.6,1,75.0,20-30,Junior,3.044522437723423
+Male,50.0,Australia,English,Blockchain Development,17.0,75.0,3.3,1,69.0,41-50,Senior,4.330733340286331
+Male,57.0,Germany,German,Graphic Design,4.0,30.0,4.2,0,79.0,51-60,Mid,3.4339872044851463
+Female,47.0,Mexico,Spanish,Ai,29.0,50.0,2.6,1,79.0,41-50,Expert,3.9318256327243257
+Male,24.0,South Africa,Afrikaans,Data Analysis,2.0,100.0,3.8,1,71.0,20-30,Junior,4.61512051684126
+Male,41.0,India,Hindi,Cybersecurity,9.0,100.0,4.8,1,72.0,41-50,Mid,4.61512051684126
+Female,50.0,Germany,German,Devops,10.0,100.0,4.3,0,93.0,41-50,Mid,4.61512051684126
+Male,46.0,Brazil,Portuguese,Machine Learning,20.0,40.0,4.8,1,82.0,41-50,Senior,3.713572066704308
+Male,51.0,Australia,English,Cybersecurity,9.0,40.0,2.6,0,60.0,51-60,Mid,3.713572066704308
+Male,51.0,United Kingdom,English,Ai,12.0,20.0,4.0,0,93.0,51-60,Senior,3.044522437723423
+Male,27.0,United Kingdom,English,Ai,3.0,50.0,2.6,0,79.0,20-30,Junior,3.9318256327243257
+Male,42.0,Spain,Spanish,Web Development,13.0,30.0,0.0,0,74.0,41-50,Senior,3.4339872044851463
+Male,25.0,Germany,German,Ui/Ux Design,4.0,40.0,2.3,1,73.0,20-30,Mid,3.713572066704308
+Female,32.0,Germany,German,Data Analysis,9.0,75.0,2.6,0,96.0,31-40,Mid,4.330733340286331
+Female,59.0,Canada,English,Graphic Design,14.0,30.0,3.8,0,66.0,51-60,Senior,3.4339872044851463
+Female,59.0,France,French,Cybersecurity,37.0,30.0,4.0,0,62.0,51-60,Expert,3.4339872044851463
+Male,29.0,Germany,German,Graphic Design,2.0,75.0,2.2,1,85.0,20-30,Junior,4.330733340286331
+Male,58.0,China,Mandarin,Ai,11.0,100.0,4.3,0,66.0,51-60,Senior,4.61512051684126
+Female,56.0,Canada,English,Cybersecurity,19.0,20.0,0.0,0,87.0,51-60,Senior,3.044522437723423
+Female,36.0,United States,English,Machine Learning,9.0,20.0,0.0,1,68.0,31-40,Mid,3.044522437723423
+Female,52.0,Canada,English,Ui/Ux Design,16.0,100.0,4.0,1,79.0,51-60,Senior,4.61512051684126
+Female,42.0,Netherlands,Dutch,Mobile Apps,8.0,50.0,2.6,0,79.0,41-50,Mid,3.9318256327243257
+Female,59.0,India,Hindi,Mobile Apps,34.0,100.0,2.0,1,79.0,51-60,Expert,4.61512051684126
+Male,33.0,Netherlands,Dutch,Mobile Apps,5.0,50.0,4.7,1,88.0,31-40,Mid,3.9318256327243257
+Female,55.0,Canada,English,Web Development,14.0,50.0,3.6,1,81.0,51-60,Senior,3.9318256327243257
+Male,47.0,South Korea,Korean,Ui/Ux Design,17.0,50.0,1.2,0,79.0,41-50,Senior,3.9318256327243257
+Female,29.0,Mexico,Spanish,Ai,10.0,40.0,4.4,1,67.0,20-30,Mid,3.713572066704308
+Female,30.0,United Kingdom,English,Devops,8.0,100.0,1.4,1,62.0,20-30,Mid,4.61512051684126
+Female,25.0,Canada,English,Devops,1.0,30.0,3.2,0,87.0,20-30,Junior,3.4339872044851463
+Female,28.0,Egypt,Arabic,Cybersecurity,10.0,40.0,3.8,1,98.0,20-30,Mid,3.713572066704308
+Male,29.0,South Korea,Korean,Blockchain Development,0.0,75.0,1.5,1,64.0,20-30,Junior,4.330733340286331
+Male,30.0,Spain,Spanish,Graphic Design,4.0,40.0,2.8,1,71.0,20-30,Mid,3.713572066704308
+Male,47.0,Egypt,Arabic,Ai,2.0,50.0,2.7,0,96.0,41-50,Junior,3.9318256327243257
+Male,34.0,Australia,English,Blockchain Development,10.0,30.0,3.9,0,79.0,31-40,Mid,3.4339872044851463
+Male,45.0,United States,English,Graphic Design,16.0,100.0,4.6,0,78.0,41-50,Senior,4.61512051684126
+Female,56.0,Spain,Spanish,Cybersecurity,27.0,20.0,2.2,0,70.0,51-60,Expert,3.044522437723423
+Female,49.0,China,Mandarin,Devops,20.0,50.0,2.5,0,82.0,41-50,Senior,3.9318256327243257
+Male,48.0,France,French,Ai,10.0,40.0,3.1,0,79.0,41-50,Mid,3.713572066704308
+Female,29.0,South Korea,Korean,Graphic Design,0.0,20.0,2.6,1,99.0,20-30,Junior,3.044522437723423
+Female,49.0,Netherlands,Dutch,Web Development,11.0,75.0,3.8,1,93.0,41-50,Senior,4.330733340286331
+Female,22.0,China,Mandarin,Blockchain Development,1.0,100.0,4.8,1,75.0,20-30,Junior,4.61512051684126
+Male,52.0,Mexico,Spanish,Graphic Design,30.0,100.0,2.5,0,61.0,51-60,Expert,4.61512051684126
+Male,60.0,Canada,English,Blockchain Development,7.0,30.0,0.0,0,97.0,51-60,Mid,3.4339872044851463
+Female,33.0,Japan,Japanese,Ui/Ux Design,0.0,100.0,1.7,1,95.0,31-40,Junior,4.61512051684126
+Male,52.0,South Korea,Korean,Graphic Design,21.0,40.0,4.0,0,69.0,51-60,Expert,3.713572066704308
+Female,25.0,Germany,German,Devops,7.0,100.0,1.9,0,63.0,20-30,Mid,4.61512051684126
+Male,33.0,Japan,Japanese,Cybersecurity,9.0,30.0,4.4,1,65.0,31-40,Mid,3.4339872044851463
+Female,33.0,China,Mandarin,Mobile Apps,9.0,40.0,4.2,1,90.0,31-40,Mid,3.713572066704308
+Female,52.0,Canada,English,Ui/Ux Design,25.0,100.0,4.8,0,79.0,51-60,Expert,4.61512051684126
+Female,20.0,Indonesia,Indonesian,Web Development,1.0,30.0,2.0,0,89.0,20-30,Junior,3.4339872044851463
+Female,43.0,Russia,Russian,Data Analysis,7.0,50.0,2.6,1,80.0,41-50,Mid,3.9318256327243257
+Female,31.0,France,French,Mobile Apps,9.0,50.0,1.4,0,80.0,31-40,Mid,3.9318256327243257
+Female,29.0,Germany,German,Data Analysis,6.0,100.0,1.8,0,79.0,20-30,Mid,4.61512051684126
+Female,53.0,South Africa,Afrikaans,Graphic Design,35.0,40.0,0.0,1,67.0,51-60,Expert,3.713572066704308
+Male,38.0,India,Hindi,Mobile Apps,1.0,40.0,0.0,0,96.0,31-40,Junior,3.713572066704308
+Male,29.0,Spain,Spanish,Graphic Design,9.0,20.0,0.0,0,90.0,20-30,Mid,3.044522437723423
+Male,42.0,South Korea,Korean,Ui/Ux Design,0.0,40.0,3.9,0,62.0,41-50,Junior,3.713572066704308
+Female,54.0,United States,English,Machine Learning,9.0,100.0,2.6,0,72.0,51-60,Mid,4.61512051684126
+Male,56.0,China,Mandarin,Ui/Ux Design,18.0,50.0,4.4,1,83.0,51-60,Senior,3.9318256327243257
+Female,47.0,Turkey,Turkish,Graphic Design,22.0,100.0,4.4,0,70.0,41-50,Expert,4.61512051684126
+Male,45.0,Russia,Russian,Blockchain Development,25.0,50.0,0.0,0,99.0,41-50,Expert,3.9318256327243257
+Male,45.0,China,Mandarin,Data Analysis,6.0,50.0,1.4,0,97.0,41-50,Mid,3.9318256327243257
+Male,35.0,Canada,English,Machine Learning,10.0,20.0,3.2,1,77.0,31-40,Mid,3.044522437723423
+Male,51.0,Canada,English,Devops,4.0,50.0,2.0,0,92.0,51-60,Mid,3.9318256327243257
+Female,34.0,Spain,Spanish,Mobile Apps,11.0,50.0,3.3,1,76.0,31-40,Senior,3.9318256327243257
+Female,51.0,Indonesia,Indonesian,Graphic Design,1.0,50.0,0.0,1,97.0,51-60,Junior,3.9318256327243257
+Male,58.0,Egypt,Arabic,Graphic Design,35.0,100.0,2.3,1,79.0,51-60,Expert,4.61512051684126
+Female,36.0,Netherlands,Dutch,Web Development,17.0,20.0,0.0,1,99.0,31-40,Senior,3.044522437723423
+Male,41.0,Russia,Russian,Ai,12.0,30.0,2.6,1,79.0,41-50,Senior,3.4339872044851463
+Male,56.0,South Africa,Afrikaans,Machine Learning,30.0,40.0,3.3,1,82.0,51-60,Expert,3.713572066704308
+Female,58.0,Canada,English,Cybersecurity,20.0,75.0,3.6,1,78.0,51-60,Senior,4.330733340286331
+Female,58.0,United States,English,Cybersecurity,22.0,100.0,3.7,0,79.0,51-60,Expert,4.61512051684126
+Female,54.0,United Kingdom,English,Ai,32.0,20.0,3.4,0,79.0,51-60,Expert,3.044522437723423
+Male,53.0,Australia,English,Ui/Ux Design,9.0,50.0,4.0,1,72.0,51-60,Mid,3.9318256327243257
+Female,43.0,Australia,English,Web Development,22.0,40.0,4.5,0,79.0,41-50,Expert,3.713572066704308
+Male,44.0,South Korea,Korean,Machine Learning,1.0,75.0,4.3,1,79.0,41-50,Junior,4.330733340286331
+Male,34.0,Canada,English,Cybersecurity,4.0,75.0,4.0,1,79.0,31-40,Mid,4.330733340286331
+Female,27.0,Brazil,Portuguese,Mobile Apps,8.0,50.0,1.6,1,79.0,20-30,Mid,3.9318256327243257
+Male,50.0,Japan,Japanese,Data Analysis,3.0,100.0,0.0,1,79.0,41-50,Junior,4.61512051684126
+Female,52.0,South Korea,Korean,Ui/Ux Design,30.0,75.0,2.6,0,94.0,51-60,Expert,4.330733340286331
+Male,57.0,Spain,Spanish,Blockchain Development,11.0,20.0,4.9,1,79.0,51-60,Senior,3.044522437723423
+Female,53.0,Mexico,Spanish,Devops,8.0,20.0,2.8,1,79.0,51-60,Mid,3.044522437723423
+Male,51.0,Turkey,Turkish,Ui/Ux Design,11.0,30.0,3.6,1,77.0,51-60,Senior,3.4339872044851463
+Female,37.0,Canada,English,Cybersecurity,9.0,50.0,2.6,1,84.0,31-40,Mid,3.9318256327243257
+Male,40.0,Spain,Spanish,Web Development,7.0,40.0,4.5,0,79.0,31-40,Mid,3.713572066704308
+Male,60.0,Japan,Japanese,Data Analysis,24.0,40.0,3.1,0,69.0,51-60,Expert,3.713572066704308
+Male,60.0,France,French,Ui/Ux Design,0.0,40.0,4.9,1,68.0,51-60,Junior,3.713572066704308
+Female,53.0,South Korea,Korean,Ui/Ux Design,21.0,30.0,4.2,1,73.0,51-60,Expert,3.4339872044851463
+Female,20.0,Mexico,Spanish,Blockchain Development,0.0,75.0,3.2,1,74.0,20-30,Junior,4.330733340286331
+Male,42.0,Russia,Russian,Web Development,7.0,20.0,2.6,0,100.0,41-50,Mid,3.044522437723423
+Male,21.0,United Kingdom,English,Mobile Apps,3.0,40.0,0.0,0,87.0,20-30,Junior,3.713572066704308
+Male,39.0,Germany,German,Web Development,21.0,100.0,2.2,0,79.0,31-40,Expert,4.61512051684126
+Male,32.0,India,Hindi,Blockchain Development,9.0,30.0,1.5,0,68.0,31-40,Mid,3.4339872044851463
+Male,35.0,Germany,German,Data Analysis,9.0,100.0,2.6,0,84.0,31-40,Mid,4.61512051684126
+Female,35.0,France,French,Ui/Ux Design,17.0,50.0,3.1,0,71.0,31-40,Senior,3.9318256327243257
+Female,23.0,Argentina,Spanish,Ui/Ux Design,0.0,75.0,0.0,0,92.0,20-30,Junior,4.330733340286331
+Male,26.0,Netherlands,Dutch,Ai,6.0,100.0,2.6,0,69.0,20-30,Mid,4.61512051684126
+Female,34.0,Canada,English,Machine Learning,3.0,40.0,0.0,1,71.0,31-40,Junior,3.713572066704308
+Female,34.0,Germany,German,Blockchain Development,3.0,40.0,2.6,0,77.0,31-40,Junior,3.713572066704308
+Male,57.0,Italy,Italian,Web Development,31.0,50.0,3.0,1,87.0,51-60,Expert,3.9318256327243257
+Male,46.0,Canada,English,Web Development,5.0,30.0,2.6,0,76.0,41-50,Mid,3.4339872044851463
+Male,55.0,India,Hindi,Ai,37.0,75.0,4.1,0,79.0,51-60,Expert,4.330733340286331
+Female,32.0,Australia,English,Devops,10.0,50.0,1.5,0,65.0,31-40,Mid,3.9318256327243257
+Male,53.0,Indonesia,Indonesian,Ai,28.0,50.0,2.9,1,82.0,51-60,Expert,3.9318256327243257
+Male,59.0,Mexico,Spanish,Ai,0.0,100.0,0.0,1,87.0,51-60,Junior,4.61512051684126
+Female,44.0,Netherlands,Dutch,Machine Learning,19.0,40.0,4.9,0,100.0,41-50,Senior,3.713572066704308
+Male,35.0,Egypt,Arabic,Blockchain Development,9.0,50.0,3.0,0,71.0,31-40,Mid,3.9318256327243257
+Female,42.0,China,Mandarin,Machine Learning,5.0,30.0,4.9,1,87.0,41-50,Mid,3.4339872044851463
+Female,58.0,South Korea,Korean,Blockchain Development,0.0,30.0,4.6,0,70.0,51-60,Junior,3.4339872044851463
+Male,41.0,Netherlands,Dutch,Ai,21.0,100.0,2.2,1,83.0,41-50,Expert,4.61512051684126
+Female,41.0,Argentina,Spanish,Web Development,0.0,40.0,2.6,1,74.0,41-50,Junior,3.713572066704308
+Female,23.0,Canada,English,Blockchain Development,0.0,30.0,1.1,1,86.0,20-30,Junior,3.4339872044851463
+Male,51.0,China,Mandarin,Blockchain Development,17.0,40.0,4.5,1,72.0,51-60,Senior,3.713572066704308
+Female,42.0,France,French,Ai,21.0,40.0,2.5,1,73.0,41-50,Expert,3.713572066704308
+Male,26.0,Japan,Japanese,Data Analysis,7.0,75.0,2.9,0,78.0,20-30,Mid,4.330733340286331
+Female,49.0,Indonesia,Indonesian,Ai,22.0,75.0,0.0,1,79.0,41-50,Expert,4.330733340286331
+Female,37.0,Italy,Italian,Devops,9.0,75.0,3.5,0,75.0,31-40,Mid,4.330733340286331
+Male,31.0,Australia,English,Ai,1.0,40.0,4.5,0,96.0,31-40,Junior,3.713572066704308
+Male,51.0,South Korea,Korean,Mobile Apps,5.0,40.0,1.7,1,61.0,51-60,Mid,3.713572066704308
+Male,60.0,China,Mandarin,Devops,40.0,50.0,4.6,1,100.0,51-60,Expert,3.9318256327243257
+Male,51.0,Canada,English,Blockchain Development,19.0,50.0,2.6,1,82.0,51-60,Senior,3.9318256327243257
+Male,37.0,Germany,German,Graphic Design,12.0,40.0,4.9,1,80.0,31-40,Senior,3.713572066704308
+Male,52.0,India,Hindi,Blockchain Development,7.0,40.0,2.2,0,96.0,51-60,Mid,3.713572066704308
+Male,27.0,Indonesia,Indonesian,Blockchain Development,4.0,20.0,2.6,0,63.0,20-30,Mid,3.044522437723423
+Male,48.0,Australia,English,Graphic Design,24.0,40.0,2.2,0,67.0,41-50,Expert,3.713572066704308
+Female,22.0,Japan,Japanese,Data Analysis,1.0,30.0,3.3,1,61.0,20-30,Junior,3.4339872044851463
+Female,48.0,Germany,German,Mobile Apps,28.0,30.0,4.9,0,77.0,41-50,Expert,3.4339872044851463
+Female,54.0,United States,English,Mobile Apps,19.0,75.0,0.0,0,79.0,51-60,Senior,4.330733340286331
+Female,52.0,South Korea,Korean,Data Analysis,4.0,50.0,2.6,0,84.0,51-60,Mid,3.9318256327243257
+Female,39.0,Turkey,Turkish,Web Development,20.0,100.0,2.6,1,89.0,31-40,Senior,4.61512051684126
+Female,54.0,Russia,Russian,Mobile Apps,19.0,30.0,4.0,0,90.0,51-60,Senior,3.4339872044851463
+Female,22.0,United States,English,Cybersecurity,1.0,20.0,4.8,0,87.0,20-30,Junior,3.044522437723423
+Female,29.0,South Africa,Afrikaans,Mobile Apps,8.0,50.0,0.0,0,77.0,20-30,Mid,3.9318256327243257
+Male,23.0,Spain,Spanish,Devops,3.0,30.0,1.6,1,72.0,20-30,Junior,3.4339872044851463
+Female,58.0,Mexico,Spanish,Devops,30.0,50.0,1.3,1,87.0,51-60,Expert,3.9318256327243257
+Female,56.0,China,Mandarin,Blockchain Development,3.0,40.0,4.1,1,89.0,51-60,Junior,3.713572066704308
+Male,48.0,Turkey,Turkish,Web Development,19.0,40.0,1.5,0,87.0,41-50,Senior,3.713572066704308
+Female,31.0,Russia,Russian,Mobile Apps,11.0,40.0,4.3,1,76.0,31-40,Senior,3.713572066704308
+Male,44.0,Australia,English,Machine Learning,26.0,50.0,1.6,0,100.0,41-50,Expert,3.9318256327243257
+Female,42.0,Egypt,Arabic,Mobile Apps,10.0,100.0,3.7,1,94.0,41-50,Mid,4.61512051684126
+Male,59.0,United States,English,Cybersecurity,17.0,50.0,1.4,1,79.0,51-60,Senior,3.9318256327243257
+Female,41.0,Argentina,Spanish,Blockchain Development,9.0,100.0,4.5,1,83.0,41-50,Mid,4.61512051684126
+Male,21.0,China,Mandarin,Data Analysis,0.0,40.0,3.7,0,74.0,20-30,Junior,3.713572066704308
+Male,53.0,United Kingdom,English,Devops,5.0,75.0,1.1,0,92.0,51-60,Mid,4.330733340286331
+Male,35.0,Argentina,Spanish,Mobile Apps,15.0,40.0,3.7,0,66.0,31-40,Senior,3.713572066704308
+Female,25.0,Brazil,Portuguese,Machine Learning,3.0,50.0,3.2,1,74.0,20-30,Junior,3.9318256327243257
+Female,23.0,Italy,Italian,Ui/Ux Design,1.0,30.0,5.0,0,97.0,20-30,Junior,3.4339872044851463
+Female,56.0,Egypt,Arabic,Graphic Design,13.0,30.0,0.0,0,77.0,51-60,Senior,3.4339872044851463
+Female,31.0,Mexico,Spanish,Ui/Ux Design,6.0,40.0,3.5,0,86.0,31-40,Mid,3.713572066704308
+Male,24.0,United States,English,Cybersecurity,4.0,50.0,3.1,0,95.0,20-30,Mid,3.9318256327243257
+Female,35.0,Brazil,Portuguese,Cybersecurity,7.0,40.0,3.9,0,72.0,31-40,Mid,3.713572066704308
+Female,20.0,Spain,Spanish,Ai,1.0,40.0,3.5,0,71.0,20-30,Junior,3.713572066704308
+Male,26.0,Australia,English,Data Analysis,5.0,100.0,2.5,1,93.0,20-30,Mid,4.61512051684126
+Male,54.0,United Kingdom,English,Devops,29.0,40.0,3.1,1,79.0,51-60,Expert,3.713572066704308
+Male,53.0,Russia,Russian,Cybersecurity,12.0,100.0,4.7,1,87.0,51-60,Senior,4.61512051684126
+Female,33.0,Canada,English,Devops,4.0,40.0,1.9,0,73.0,31-40,Mid,3.713572066704308
+Male,43.0,Netherlands,Dutch,Web Development,12.0,40.0,1.6,1,74.0,41-50,Senior,3.713572066704308
+Male,37.0,Canada,English,Devops,3.0,20.0,2.5,0,62.0,31-40,Junior,3.044522437723423
+Female,58.0,France,French,Data Analysis,15.0,20.0,3.5,0,98.0,51-60,Senior,3.044522437723423
+Female,39.0,Spain,Spanish,Mobile Apps,15.0,50.0,2.6,0,80.0,31-40,Senior,3.9318256327243257
+Male,43.0,Turkey,Turkish,Graphic Design,13.0,20.0,1.2,1,69.0,41-50,Senior,3.044522437723423
+Female,40.0,Spain,Spanish,Blockchain Development,20.0,30.0,2.6,0,90.0,31-40,Senior,3.4339872044851463
+Female,51.0,United Kingdom,English,Machine Learning,30.0,75.0,2.6,1,74.0,51-60,Expert,4.330733340286331
+Male,23.0,Germany,German,Ai,4.0,50.0,4.5,0,98.0,20-30,Mid,3.9318256327243257
+Female,31.0,Indonesia,Indonesian,Graphic Design,9.0,20.0,2.6,1,84.0,31-40,Mid,3.044522437723423
+Female,44.0,Russia,Russian,Web Development,3.0,20.0,5.0,1,75.0,41-50,Junior,3.044522437723423
+Male,56.0,Germany,German,Mobile Apps,23.0,75.0,3.9,1,79.0,51-60,Expert,4.330733340286331
+Female,48.0,Australia,English,Cybersecurity,5.0,100.0,1.8,1,97.0,41-50,Mid,4.61512051684126
+Female,46.0,Russia,Russian,Web Development,28.0,30.0,4.2,1,79.0,41-50,Expert,3.4339872044851463
+Male,21.0,Egypt,Arabic,Ai,0.0,20.0,2.6,0,64.0,20-30,Junior,3.044522437723423
+Male,52.0,Russia,Russian,Data Analysis,30.0,30.0,2.0,1,68.0,51-60,Expert,3.4339872044851463
+Female,39.0,Russia,Russian,Graphic Design,20.0,75.0,2.7,1,67.0,31-40,Senior,4.330733340286331
+Female,31.0,Australia,English,Mobile Apps,0.0,30.0,2.3,0,79.0,31-40,Junior,3.4339872044851463
+Male,22.0,South Korea,Korean,Ui/Ux Design,4.0,40.0,3.8,1,100.0,20-30,Mid,3.713572066704308
+Female,38.0,United Kingdom,English,Ui/Ux Design,10.0,40.0,2.6,0,66.0,31-40,Mid,3.713572066704308
+Male,44.0,Argentina,Spanish,Graphic Design,24.0,75.0,4.6,0,97.0,41-50,Expert,4.330733340286331
+Male,53.0,Indonesia,Indonesian,Machine Learning,21.0,100.0,3.4,0,62.0,51-60,Expert,4.61512051684126
+Male,22.0,China,Mandarin,Data Analysis,2.0,20.0,2.6,0,79.0,20-30,Junior,3.044522437723423
+Female,40.0,India,Hindi,Blockchain Development,14.0,75.0,0.0,1,79.0,31-40,Senior,4.330733340286331
+Female,49.0,China,Mandarin,Mobile Apps,15.0,40.0,3.9,0,86.0,41-50,Senior,3.713572066704308
+Male,30.0,Australia,English,Ui/Ux Design,11.0,30.0,4.2,0,65.0,20-30,Senior,3.4339872044851463
+Female,37.0,Japan,Japanese,Ai,6.0,20.0,2.6,0,99.0,31-40,Mid,3.044522437723423
+Male,21.0,Egypt,Arabic,Graphic Design,2.0,100.0,3.6,0,85.0,20-30,Junior,4.61512051684126
+Male,20.0,South Korea,Korean,Ai,1.0,50.0,2.6,1,81.0,20-30,Junior,3.9318256327243257
+Male,20.0,China,Mandarin,Data Analysis,2.0,40.0,2.1,0,64.0,20-30,Junior,3.713572066704308
+Male,20.0,Argentina,Spanish,Machine Learning,2.0,20.0,3.9,0,84.0,20-30,Junior,3.044522437723423
+Female,26.0,Russia,Russian,Machine Learning,2.0,40.0,0.0,0,66.0,20-30,Junior,3.713572066704308
+Female,50.0,South Korea,Korean,Web Development,12.0,75.0,0.0,0,75.0,41-50,Senior,4.330733340286331
+Male,50.0,Spain,Spanish,Ai,28.0,30.0,1.8,0,79.0,41-50,Expert,3.4339872044851463
+Female,54.0,Indonesia,Indonesian,Ai,4.0,20.0,1.1,1,63.0,51-60,Mid,3.044522437723423
+Male,54.0,Spain,Spanish,Blockchain Development,3.0,20.0,1.6,1,70.0,51-60,Junior,3.044522437723423
+Female,34.0,Egypt,Arabic,Machine Learning,4.0,30.0,3.1,0,90.0,31-40,Mid,3.4339872044851463
+Female,20.0,Italy,Italian,Devops,1.0,50.0,3.4,1,79.0,20-30,Junior,3.9318256327243257
+Male,29.0,Germany,German,Ai,8.0,40.0,3.1,0,60.0,20-30,Mid,3.713572066704308
+Female,57.0,United Kingdom,English,Devops,11.0,75.0,2.3,0,79.0,51-60,Senior,4.330733340286331
+Female,36.0,Netherlands,Dutch,Ai,8.0,40.0,2.6,0,80.0,31-40,Mid,3.713572066704308
+Male,51.0,South Korea,Korean,Web Development,32.0,50.0,3.2,0,88.0,51-60,Expert,3.9318256327243257
+Male,44.0,India,Hindi,Ui/Ux Design,4.0,30.0,0.0,0,80.0,41-50,Mid,3.4339872044851463
+Male,58.0,Spain,Spanish,Cybersecurity,33.0,30.0,3.3,1,71.0,51-60,Expert,3.4339872044851463
+Female,38.0,South Africa,Afrikaans,Mobile Apps,14.0,40.0,1.1,1,76.0,31-40,Senior,3.713572066704308
+Male,24.0,United States,English,Ui/Ux Design,6.0,30.0,4.6,1,93.0,20-30,Mid,3.4339872044851463
+Female,30.0,Turkey,Turkish,Blockchain Development,5.0,30.0,2.6,0,79.0,20-30,Mid,3.4339872044851463
+Male,25.0,Indonesia,Indonesian,Cybersecurity,3.0,75.0,2.6,0,83.0,20-30,Junior,4.330733340286331
+Male,54.0,Indonesia,Indonesian,Mobile Apps,17.0,100.0,0.0,0,71.0,51-60,Senior,4.61512051684126
+Male,54.0,Italy,Italian,Cybersecurity,9.0,20.0,0.0,1,96.0,51-60,Mid,3.044522437723423
+Female,53.0,France,French,Graphic Design,16.0,40.0,0.0,0,79.0,51-60,Senior,3.713572066704308
+Male,22.0,Russia,Russian,Ai,3.0,75.0,3.4,1,65.0,20-30,Junior,4.330733340286331
+Female,23.0,Mexico,Spanish,Data Analysis,2.0,20.0,1.3,0,79.0,20-30,Junior,3.044522437723423
+Female,47.0,France,French,Cybersecurity,16.0,50.0,1.9,0,71.0,41-50,Senior,3.9318256327243257
+Male,24.0,France,French,Web Development,6.0,50.0,1.4,1,63.0,20-30,Mid,3.9318256327243257
+Female,57.0,India,Hindi,Ui/Ux Design,10.0,100.0,4.3,0,79.0,51-60,Mid,4.61512051684126
+Male,48.0,Spain,Spanish,Graphic Design,16.0,30.0,2.6,0,97.0,41-50,Senior,3.4339872044851463
+Female,21.0,Turkey,Turkish,Ui/Ux Design,0.0,100.0,4.3,0,79.0,20-30,Junior,4.61512051684126
+Male,33.0,Japan,Japanese,Ai,13.0,75.0,0.0,1,79.0,31-40,Senior,4.330733340286331
+Male,41.0,Turkey,Turkish,Devops,12.0,40.0,1.3,0,85.0,41-50,Senior,3.713572066704308
+Male,40.0,Australia,English,Cybersecurity,13.0,50.0,2.9,0,82.0,31-40,Senior,3.9318256327243257
+Female,40.0,Mexico,Spanish,Graphic Design,22.0,40.0,4.3,0,95.0,31-40,Expert,3.713572066704308
+Female,20.0,United States,English,Graphic Design,1.0,40.0,2.7,0,94.0,20-30,Junior,3.713572066704308
+Female,42.0,Mexico,Spanish,Web Development,9.0,50.0,4.2,0,96.0,41-50,Mid,3.9318256327243257
+Male,32.0,Canada,English,Blockchain Development,12.0,40.0,0.0,1,63.0,31-40,Senior,3.713572066704308
+Male,60.0,Japan,Japanese,Ai,9.0,20.0,2.2,0,60.0,51-60,Mid,3.044522437723423
+Male,46.0,Egypt,Arabic,Machine Learning,12.0,50.0,4.7,1,77.0,41-50,Senior,3.9318256327243257
+Male,29.0,China,Mandarin,Devops,0.0,30.0,0.0,0,63.0,20-30,Junior,3.4339872044851463
+Female,39.0,Brazil,Portuguese,Mobile Apps,18.0,20.0,2.5,1,61.0,31-40,Senior,3.044522437723423
+Male,55.0,Russia,Russian,Mobile Apps,2.0,50.0,3.9,1,88.0,51-60,Junior,3.9318256327243257
+Male,55.0,Turkey,Turkish,Cybersecurity,9.0,100.0,1.2,1,69.0,51-60,Mid,4.61512051684126
+Male,40.0,Indonesia,Indonesian,Data Analysis,2.0,75.0,4.5,1,79.0,31-40,Junior,4.330733340286331
+Female,56.0,China,Mandarin,Ui/Ux Design,35.0,40.0,2.7,1,82.0,51-60,Expert,3.713572066704308
+Male,57.0,Mexico,Spanish,Mobile Apps,21.0,75.0,2.0,0,96.0,51-60,Expert,4.330733340286331
+Female,56.0,Russia,Russian,Devops,3.0,40.0,1.7,0,71.0,51-60,Junior,3.713572066704308
+Female,49.0,Germany,German,Mobile Apps,24.0,75.0,3.0,1,77.0,41-50,Expert,4.330733340286331
+Male,26.0,Spain,Spanish,Blockchain Development,9.0,75.0,2.1,1,79.0,20-30,Mid,4.330733340286331
+Female,36.0,South Korea,Korean,Ui/Ux Design,0.0,75.0,1.5,0,73.0,31-40,Junior,4.330733340286331
+Male,20.0,Russia,Russian,Web Development,2.0,30.0,1.7,1,60.0,20-30,Junior,3.4339872044851463
+Female,40.0,Spain,Spanish,Ai,9.0,40.0,1.2,1,67.0,31-40,Mid,3.713572066704308
+Female,30.0,India,Hindi,Mobile Apps,6.0,75.0,0.0,0,80.0,20-30,Mid,4.330733340286331
+Male,51.0,Australia,English,Graphic Design,21.0,20.0,2.6,1,79.0,51-60,Expert,3.044522437723423
+Male,46.0,United States,English,Ui/Ux Design,24.0,40.0,3.3,1,87.0,41-50,Expert,3.713572066704308
+Female,25.0,South Korea,Korean,Ai,6.0,20.0,2.1,0,79.0,20-30,Mid,3.044522437723423
+Male,53.0,Netherlands,Dutch,Web Development,32.0,50.0,2.6,1,79.0,51-60,Expert,3.9318256327243257
+Female,50.0,Egypt,Arabic,Mobile Apps,31.0,100.0,2.9,1,89.0,41-50,Expert,4.61512051684126
+Male,45.0,South Korea,Korean,Ai,9.0,20.0,3.3,1,93.0,41-50,Mid,3.044522437723423
+Female,48.0,Canada,English,Cybersecurity,24.0,100.0,4.8,1,84.0,41-50,Expert,4.61512051684126
+Male,30.0,Indonesia,Indonesian,Devops,9.0,100.0,4.5,0,78.0,20-30,Mid,4.61512051684126
+Female,33.0,Netherlands,Dutch,Ui/Ux Design,6.0,50.0,3.1,0,90.0,31-40,Mid,3.9318256327243257
+Female,50.0,United Kingdom,English,Devops,11.0,40.0,4.9,1,88.0,41-50,Senior,3.713572066704308
+Female,24.0,Indonesia,Indonesian,Data Analysis,9.0,20.0,0.0,0,76.0,20-30,Mid,3.044522437723423
+Male,38.0,Italy,Italian,Web Development,14.0,75.0,1.5,0,62.0,31-40,Senior,4.330733340286331
+Male,56.0,Japan,Japanese,Devops,2.0,75.0,2.4,0,79.0,51-60,Junior,4.330733340286331
+Female,41.0,Russia,Russian,Devops,2.0,100.0,4.5,0,75.0,41-50,Junior,4.61512051684126
+Male,41.0,Italy,Italian,Ui/Ux Design,11.0,100.0,2.5,1,80.0,41-50,Senior,4.61512051684126
+Female,42.0,Germany,German,Graphic Design,13.0,30.0,3.3,0,63.0,41-50,Senior,3.4339872044851463
+Male,26.0,India,Hindi,Blockchain Development,7.0,75.0,3.0,0,84.0,20-30,Mid,4.330733340286331
+Female,44.0,Canada,English,Cybersecurity,25.0,75.0,2.7,1,78.0,41-50,Expert,4.330733340286331
+Male,46.0,Canada,English,Graphic Design,20.0,20.0,1.2,0,74.0,41-50,Senior,3.044522437723423
+Female,36.0,United States,English,Ui/Ux Design,8.0,50.0,4.3,0,90.0,31-40,Mid,3.9318256327243257
+Male,26.0,Netherlands,Dutch,Ai,6.0,40.0,1.3,0,79.0,20-30,Mid,3.713572066704308
+Male,21.0,Germany,German,Ui/Ux Design,3.0,50.0,4.6,1,79.0,20-30,Junior,3.9318256327243257
+Female,39.0,Indonesia,Indonesian,Ui/Ux Design,18.0,50.0,2.1,0,75.0,31-40,Senior,3.9318256327243257
+Female,37.0,United States,English,Blockchain Development,18.0,40.0,4.5,0,72.0,31-40,Senior,3.713572066704308
+Female,47.0,Russia,Russian,Ui/Ux Design,3.0,40.0,4.4,1,92.0,41-50,Junior,3.713572066704308
+Female,53.0,Russia,Russian,Graphic Design,32.0,20.0,0.0,0,79.0,51-60,Expert,3.044522437723423
+Female,53.0,Argentina,Spanish,Mobile Apps,19.0,20.0,1.3,0,79.0,51-60,Senior,3.044522437723423
+Male,21.0,India,Hindi,Data Analysis,2.0,50.0,2.6,0,86.0,20-30,Junior,3.9318256327243257
+Female,35.0,United Kingdom,English,Blockchain Development,0.0,40.0,2.6,1,85.0,31-40,Junior,3.713572066704308
+Male,31.0,Argentina,Spanish,Machine Learning,13.0,40.0,1.2,0,62.0,31-40,Senior,3.713572066704308
+Female,55.0,South Korea,Korean,Ai,2.0,30.0,3.1,1,91.0,51-60,Junior,3.4339872044851463
+Female,59.0,Turkey,Turkish,Web Development,11.0,75.0,2.3,1,80.0,51-60,Senior,4.330733340286331
+Male,59.0,France,French,Cybersecurity,17.0,100.0,4.0,0,72.0,51-60,Senior,4.61512051684126
+Male,47.0,India,Hindi,Blockchain Development,10.0,75.0,1.9,0,79.0,41-50,Mid,4.330733340286331
+Female,53.0,South Africa,Afrikaans,Machine Learning,26.0,75.0,2.4,1,79.0,51-60,Expert,4.330733340286331
+Male,49.0,South Africa,Afrikaans,Data Analysis,9.0,30.0,2.6,1,74.0,41-50,Mid,3.4339872044851463
+Female,50.0,South Africa,Afrikaans,Mobile Apps,8.0,50.0,3.7,1,82.0,41-50,Mid,3.9318256327243257
+Female,59.0,South Korea,Korean,Machine Learning,22.0,100.0,1.1,0,85.0,51-60,Expert,4.61512051684126
+Male,33.0,Turkey,Turkish,Data Analysis,8.0,75.0,2.3,1,68.0,31-40,Mid,4.330733340286331
+Female,45.0,Canada,English,Web Development,22.0,40.0,3.7,1,99.0,41-50,Expert,3.713572066704308
+Female,36.0,Italy,Italian,Graphic Design,14.0,30.0,1.9,0,62.0,31-40,Senior,3.4339872044851463
+Male,46.0,South Africa,Afrikaans,Ui/Ux Design,6.0,30.0,1.5,0,79.0,41-50,Mid,3.4339872044851463
+Female,53.0,Turkey,Turkish,Graphic Design,14.0,30.0,0.0,0,83.0,51-60,Senior,3.4339872044851463
+Female,24.0,United States,English,Web Development,2.0,30.0,3.6,0,92.0,20-30,Junior,3.4339872044851463
+Female,49.0,Spain,Spanish,Devops,4.0,75.0,2.1,0,85.0,41-50,Mid,4.330733340286331
+Female,49.0,South Korea,Korean,Ai,4.0,75.0,2.9,0,79.0,41-50,Mid,4.330733340286331
+Female,49.0,South Korea,Korean,Mobile Apps,24.0,100.0,3.6,1,79.0,41-50,Expert,4.61512051684126
+Female,58.0,Brazil,Portuguese,Blockchain Development,29.0,30.0,3.3,1,89.0,51-60,Expert,3.4339872044851463
+Male,50.0,South Africa,Afrikaans,Ui/Ux Design,13.0,40.0,2.5,1,81.0,41-50,Senior,3.713572066704308
+Male,27.0,South Africa,Afrikaans,Devops,1.0,100.0,3.7,1,61.0,20-30,Junior,4.61512051684126
+Female,20.0,South Korea,Korean,Machine Learning,9.0,30.0,4.6,1,79.0,20-30,Mid,3.4339872044851463
+Male,52.0,Russia,Russian,Blockchain Development,15.0,40.0,0.0,1,92.0,51-60,Senior,3.713572066704308
+Female,22.0,France,French,Machine Learning,2.0,30.0,2.0,0,96.0,20-30,Junior,3.4339872044851463
+Female,38.0,Turkey,Turkish,Web Development,14.0,100.0,1.7,0,66.0,31-40,Senior,4.61512051684126
+Male,21.0,Canada,English,Graphic Design,0.0,100.0,3.0,0,64.0,20-30,Junior,4.61512051684126
+Male,41.0,Australia,English,Ai,15.0,40.0,3.4,0,100.0,41-50,Senior,3.713572066704308
+Female,33.0,Indonesia,Indonesian,Blockchain Development,6.0,40.0,3.2,1,95.0,31-40,Mid,3.713572066704308
+Female,38.0,Mexico,Spanish,Mobile Apps,11.0,40.0,2.8,0,91.0,31-40,Senior,3.713572066704308
+Female,26.0,Russia,Russian,Devops,8.0,20.0,4.1,1,82.0,20-30,Mid,3.044522437723423
+Female,43.0,Netherlands,Dutch,Ai,3.0,20.0,0.0,1,95.0,41-50,Junior,3.044522437723423
+Female,21.0,Italy,Italian,Cybersecurity,0.0,40.0,0.0,1,95.0,20-30,Junior,3.713572066704308
+Male,47.0,South Korea,Korean,Mobile Apps,7.0,30.0,2.6,0,69.0,41-50,Mid,3.4339872044851463
+Male,35.0,Spain,Spanish,Graphic Design,6.0,40.0,2.6,1,91.0,31-40,Mid,3.713572066704308
+Female,37.0,Indonesia,Indonesian,Mobile Apps,9.0,30.0,2.7,1,79.0,31-40,Mid,3.4339872044851463
+Female,38.0,Brazil,Portuguese,Ai,15.0,40.0,4.0,0,62.0,31-40,Senior,3.713572066704308
+Male,40.0,Canada,English,Data Analysis,20.0,20.0,2.5,0,81.0,31-40,Senior,3.044522437723423
+Female,46.0,Brazil,Portuguese,Data Analysis,16.0,75.0,0.0,0,94.0,41-50,Senior,4.330733340286331
+Male,56.0,Egypt,Arabic,Devops,22.0,30.0,2.6,0,95.0,51-60,Expert,3.4339872044851463
+Male,24.0,Turkey,Turkish,Graphic Design,2.0,40.0,1.6,0,100.0,20-30,Junior,3.713572066704308
+Male,41.0,Mexico,Spanish,Ai,1.0,75.0,0.0,1,94.0,41-50,Junior,4.330733340286331
+Female,38.0,Turkey,Turkish,Mobile Apps,8.0,30.0,4.0,1,92.0,31-40,Mid,3.4339872044851463
+Female,28.0,France,French,Devops,8.0,50.0,2.5,1,95.0,20-30,Mid,3.9318256327243257
+Male,25.0,Brazil,Portuguese,Devops,7.0,20.0,3.8,0,97.0,20-30,Mid,3.044522437723423
+Male,41.0,United Kingdom,English,Devops,8.0,50.0,4.8,0,75.0,41-50,Mid,3.9318256327243257
+Female,45.0,Mexico,Spanish,Data Analysis,6.0,40.0,2.0,1,78.0,41-50,Mid,3.713572066704308
+Male,47.0,Turkey,Turkish,Devops,16.0,100.0,3.3,0,65.0,41-50,Senior,4.61512051684126
+Female,59.0,United Kingdom,English,Data Analysis,40.0,40.0,2.5,1,70.0,51-60,Expert,3.713572066704308
+Female,25.0,Canada,English,Blockchain Development,6.0,100.0,2.6,1,78.0,20-30,Mid,4.61512051684126
+Male,27.0,Australia,English,Web Development,3.0,50.0,2.6,1,96.0,20-30,Junior,3.9318256327243257
+Female,57.0,Australia,English,Ai,5.0,100.0,0.0,1,80.0,51-60,Mid,4.61512051684126
+Female,34.0,Turkey,Turkish,Ui/Ux Design,12.0,20.0,1.6,1,64.0,31-40,Senior,3.044522437723423
+Male,55.0,France,French,Ui/Ux Design,33.0,50.0,0.0,0,92.0,51-60,Expert,3.9318256327243257
+Male,21.0,Egypt,Arabic,Blockchain Development,1.0,100.0,0.0,1,79.0,20-30,Junior,4.61512051684126
+Male,53.0,Netherlands,Dutch,Devops,27.0,20.0,4.7,1,71.0,51-60,Expert,3.044522437723423
+Female,21.0,Germany,German,Ui/Ux Design,1.0,100.0,0.0,1,95.0,20-30,Junior,4.61512051684126
+Female,36.0,Brazil,Portuguese,Web Development,9.0,20.0,4.1,0,86.0,31-40,Mid,3.044522437723423
+Male,40.0,Germany,German,Ai,2.0,30.0,1.3,1,77.0,31-40,Junior,3.4339872044851463
+Female,59.0,United Kingdom,English,Ui/Ux Design,40.0,100.0,2.6,0,79.0,51-60,Expert,4.61512051684126
+Male,45.0,Netherlands,Dutch,Cybersecurity,4.0,20.0,2.7,0,72.0,41-50,Mid,3.044522437723423
+Male,44.0,South Korea,Korean,Machine Learning,9.0,40.0,2.6,0,70.0,41-50,Mid,3.713572066704308
+Female,36.0,United Kingdom,English,Cybersecurity,13.0,30.0,3.6,0,86.0,31-40,Senior,3.4339872044851463
+Female,26.0,India,Hindi,Graphic Design,1.0,75.0,3.0,1,79.0,20-30,Junior,4.330733340286331
+Male,49.0,India,Hindi,Web Development,1.0,40.0,0.0,0,82.0,41-50,Junior,3.713572066704308
+Male,29.0,France,French,Mobile Apps,3.0,40.0,0.0,1,81.0,20-30,Junior,3.713572066704308
+Male,32.0,France,French,Graphic Design,1.0,40.0,3.1,1,76.0,31-40,Junior,3.713572066704308
+Male,24.0,Indonesia,Indonesian,Blockchain Development,3.0,30.0,3.9,0,90.0,20-30,Junior,3.4339872044851463
+Male,35.0,South Korea,Korean,Devops,14.0,30.0,1.6,1,67.0,31-40,Senior,3.4339872044851463
+Female,43.0,Spain,Spanish,Blockchain Development,2.0,40.0,1.8,0,61.0,41-50,Junior,3.713572066704308
+Male,53.0,South Korea,Korean,Machine Learning,27.0,100.0,3.7,0,73.0,51-60,Expert,4.61512051684126
+Female,38.0,Russia,Russian,Devops,7.0,75.0,2.6,0,79.0,31-40,Mid,4.330733340286331
+Male,57.0,United Kingdom,English,Cybersecurity,29.0,75.0,4.1,0,90.0,51-60,Expert,4.330733340286331
+Male,27.0,China,Mandarin,Blockchain Development,5.0,75.0,1.4,1,64.0,20-30,Mid,4.330733340286331
+Male,43.0,Argentina,Spanish,Web Development,2.0,100.0,1.1,1,63.0,41-50,Junior,4.61512051684126
+Male,48.0,Canada,English,Data Analysis,18.0,40.0,3.9,0,79.0,41-50,Senior,3.713572066704308
+Male,26.0,Brazil,Portuguese,Cybersecurity,8.0,20.0,3.6,0,67.0,20-30,Mid,3.044522437723423
+Female,41.0,South Africa,Afrikaans,Graphic Design,0.0,40.0,0.0,0,97.0,41-50,Junior,3.713572066704308
+Female,50.0,Italy,Italian,Data Analysis,16.0,75.0,4.5,0,69.0,41-50,Senior,4.330733340286331
+Male,48.0,South Africa,Afrikaans,Web Development,8.0,50.0,2.6,1,73.0,41-50,Mid,3.9318256327243257
+Male,60.0,Spain,Spanish,Blockchain Development,39.0,20.0,1.4,1,86.0,51-60,Expert,3.044522437723423
+Male,26.0,Egypt,Arabic,Machine Learning,9.0,50.0,0.0,1,81.0,20-30,Mid,3.9318256327243257
+Female,35.0,South Korea,Korean,Graphic Design,16.0,100.0,4.3,1,74.0,31-40,Senior,4.61512051684126
+Male,23.0,United States,English,Blockchain Development,4.0,100.0,2.2,1,64.0,20-30,Mid,4.61512051684126
+Male,37.0,Australia,English,Graphic Design,4.0,75.0,3.2,0,76.0,31-40,Mid,4.330733340286331
+Female,21.0,Argentina,Spanish,Ai,2.0,100.0,3.7,1,73.0,20-30,Junior,4.61512051684126
+Female,58.0,Germany,German,Ui/Ux Design,37.0,50.0,4.9,0,69.0,51-60,Expert,3.9318256327243257
+Female,52.0,Indonesia,Indonesian,Mobile Apps,32.0,75.0,3.2,0,79.0,51-60,Expert,4.330733340286331
+Male,46.0,Russia,Russian,Mobile Apps,8.0,20.0,2.2,0,89.0,41-50,Mid,3.044522437723423
+Female,34.0,South Africa,Afrikaans,Devops,8.0,30.0,3.9,1,95.0,31-40,Mid,3.4339872044851463
+Male,56.0,Turkey,Turkish,Devops,13.0,100.0,0.0,0,68.0,51-60,Senior,4.61512051684126
+Female,26.0,Germany,German,Blockchain Development,6.0,40.0,2.8,0,82.0,20-30,Mid,3.713572066704308
+Female,37.0,Japan,Japanese,Data Analysis,15.0,75.0,2.6,0,94.0,31-40,Senior,4.330733340286331
+Male,46.0,Russia,Russian,Machine Learning,22.0,100.0,2.8,1,97.0,41-50,Expert,4.61512051684126
+Female,36.0,Mexico,Spanish,Ui/Ux Design,18.0,20.0,1.7,1,72.0,31-40,Senior,3.044522437723423
